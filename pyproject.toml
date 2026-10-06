@@ -1,0 +1,9 @@
+[project]
+name = "apertus-hack--gepa-0"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "dspy>=3.4.0",
+    "gepa>=0.1.4",
+    "python-dotenv>=1.2.4",
+]
