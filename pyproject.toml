@@ -5,5 +5,9 @@ requires-python = ">=3.13"
 dependencies = [
     "dspy>=3.4.0",
     "gepa>=0.1.4",
+    "litellm>=1.104.0",
     "python-dotenv>=1.2.4",
 ]
+
+[tool.uv.sources]
+litellm = { git = "https://github.com/BerriAI/litellm", rev = "a983b2a5e77f741b719f32f956fac090b5e6c376" }

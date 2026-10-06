@@ -32,7 +32,14 @@ lllm_router = Router(
                 'cache_creation_input_token_cost': 0,
                 'cache_read_input_token_cost': 0,
             }
-        }
+        },
+        # Allow all default providers passthrough
+        {
+            "model_name": "*",
+            "litellm_params": {
+                "model": "*",
+            },
+        },
     ]
 )
 

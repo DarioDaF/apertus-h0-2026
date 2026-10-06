@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 from typing import Any, TypedDict, cast
+import math
 
 import dotenv
 import gepa.optimize_anything as gepa_oa
@@ -38,18 +39,21 @@ class MyInputWithTarget(MyInput):
     new_middle: str
 
 seed_candidate: MyPromptCandidate = {
-    'system': 'Fill the appropriate word in the translated text so it mantains the same meaning as original.',
-    'prompt_template': '[ ## original text ## ]\n{original}\n\n[ ## new text prefix ## ]\n{new_prefix}\n\n[ ## new text suffix ## ]\n{new_suffix}\n\nOutput few words to fill the gap.',
-    #'system': '',
-    #'prompt_template': '{original}\n\n{new_prefix}\n\n{new_suffix}\n\n',
+    #'system': 'Fill the appropriate word in the translated text so it mantains the same meaning as original.',
+    #'prompt_template': '[ ## original text ## ]\n{original}\n\n[ ## new text prefix ## ]\n{new_prefix}\n\n[ ## new text suffix ## ]\n{new_suffix}\n\nOutput few words to fill the gap.',
+    'system': '',
+    'prompt_template': '{original}\n\n{new_prefix}\n\n{new_suffix}\n\n',
 }
 template_vars = ['original', 'new_prefix', 'new_suffix']
 def evaluator(candidate: MyPromptCandidate, example: MyInputWithTarget) -> tuple[float, dict[str, Any]]:
     prompt = candidate['prompt_template']
     for tvar in template_vars:
         if candidate['prompt_template'].count(f'{{{tvar}}}') != 1:
-            return float('-inf'), { 'rejected': True, 'reason': f'Template variable {{{tvar}}} is missing from the prompt template' }
+            return -math.inf, { 'rejected': True, 'reason': f'Template variable {{{tvar}}} is missing from the prompt template' }
         prompt = prompt.replace(f'{{{tvar}}}', example[tvar])
+        if candidate['system'].count(f'{{{tvar}}}') != 0:
+            # @NOTE: "GPT6 Luna" seems to not understand this at all, does it even get passed in?
+            return -math.inf, { 'rejected': True, 'reason': f'"system" must not contain TEMPLATE variables' }
 
     # Only call the expensive task LLM if the candidate is valid.
     messages: list[Message] = [
@@ -91,7 +95,7 @@ res = gepa_oa.optimize_anything(
     dataset=dataset,
     valset=valset,
     objective='From a base text in one language, find the correct text to fill the gap between prefix and suffix in the translated version to preserve meaning',
-    background='"prompt_template" must contain the "{original}", "{new_prefix}", and "{new_suffix}" placeholders that will be filled with the question parts',
+    background='"prompt_template" is a template string and must contain the "{original}", "{new_prefix}", and "{new_suffix}" placeholders that will be filled with the question parts, all the other parts are NOT TEMPLATES',
     config=gepa_oa.GEPAConfig(
         engine=gepa_oa.EngineConfig(
             max_metric_calls=50,
@@ -101,5 +105,7 @@ res = gepa_oa.optimize_anything(
         ),
     ),
 )
+
+(THIS_FOLDER / 'artifacts' / 'raw_gepa.candidates.html').write_text(res.candidate_tree_html(), encoding='utf-8')
 
 print(res.best_candidate)
