@@ -1,0 +1,4 @@
+spacy>=3.8.0,<3.9.0
+pandas
+# Install a model after: python -m spacy download en_core_web_md
+# (md recommended; sm works but weaker on entities & compounds)

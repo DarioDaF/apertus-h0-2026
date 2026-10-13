@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phrase-segmenter-spacy"
+version = "0.1.0"
+description = "Baseline phrase-level segmenter using spaCy (approximation of LLM merge rules)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "spacy>=3.8.0,<3.9.0", # Updated to match model version requirements
+    "pandas",
+    # spacy wheels to install without runtime download: https://github.com/astral-sh/uv/issues/6914
+    # https://g-simmons.github.io/gabe-simmons-teaching-wiki/Other/installing-spacy-models-with-uv
+    # dl_tpl = "https://github.com/explosion/spacy-models/releases/download/{m}-{v}/{m}-{v}-py3-none-any.whl"
+    # version from https://raw.githubusercontent.com/explosion/spacy-models/master/compatibility.json
+    "en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl",
+    "en_core_web_md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.8.0/en_core_web_md-3.8.0-py3-none-any.whl",
+    "de_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.8.0/de_core_news_sm-3.8.0-py3-none-any.whl",
+    "fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl",
+    "it_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/it_core_news_sm-3.8.0/it_core_news_sm-3.8.0-py3-none-any.whl",
+]
+
+[project.scripts]
+phrase-segment = "phrase_segmenter.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["phrase_segmenter*"]

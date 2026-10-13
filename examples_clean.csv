@@ -1,0 +1,1037 @@
+id,lang_A_id,lang_B_id,text_A,text_B
+CH__civil__11,EN,DE,"1 Every person has legal capacity.
+
+2 Accordingly, within the limits of the law, every person has the same capacity to have rights and obligations.","1 Rechtsfähig ist jedermann.
+
+2 Für alle Menschen besteht demgemäss in den Schranken der Rechtsordnung die gleiche Fähigkeit, Rechte und Pflichten zu haben."
+CH__civil__12,EN,DE,A person who has capacity to act has the capacity to create rights and obligations through his actions.,"Wer handlungsfähig ist, hat die Fähigkeit, durch seine Handlungen Rechte und Pflichten zu begründen."
+CH__civil__13,EN,DE,A person who is of age and is capable of judgement has the capacity to act.,"Die Handlungsfähigkeit besitzt, wer volljährig und urteilsfähig ist."
+CH__civil__14,EN,DE,A person is of age if he or she has reached the age of 18.,"Volljährig ist, wer das 18. Lebensjahr zurückgelegt hat."
+CH__civil__16,EN,DE,"A person is capable of judgement within the meaning of the law if he or she does not lack the capacity to act rationally by virtue of being under age or because of a mental disability, mental disorder, intoxication or similar circumstances.","Urteilsfähig im Sinne dieses Gesetzes ist jede Person, der nicht wegen ihres Kindesalters, infolge geistiger Behinderung, psychischer Störung, Rausch oder ähnlicher Zustände die Fähigkeit mangelt, vernunftgemäss zu handeln."
+CH__civil__17,EN,DE,A person does not have the capacity to act if he or she is incapable of judgement or is under age or is subject to a general deputyship.,"Handlungsunfähig sind urteilsunfähige Personen, Minderjährige sowie Personen unter umfassender Beistandschaft."
+CH__civil__18,EN,DE,"A person who is incapable of judgement cannot create legal effect by his or her actions, unless the law provides otherwise.","Wer nicht urteilsfähig ist, vermag unter Vorbehalt der gesetzlichen Ausnahmen durch seine Handlungen keine rechtliche Wirkung herbeizuführen."
+CH__civil__19,EN,DE,"1 Persons who are capable of judgement but lack the capacity to act may only enter into obligations or give up rights with the consent of their legal representative.
+
+2 Without such consent, they may only accept advantages that are free of charge or carry out minor everyday transactions.
+
+3 They are liable in damages for unpermitted acts.","1 Urteilsfähige handlungsunfähige Personen können nur mit Zustimmung ihres gesetzlichen Vertreters Verpflichtungen eingehen oder Rechte aufgeben.
+
+2 Ohne diese Zustimmung vermögen sie Vorteile zu erlangen, die unentgeltlich sind, sowie geringfügige Angelegenheiten des täglichen Lebens zu besorgen.
+
+3 Sie werden aus unerlaubten Handlungen schadenersatzpflichtig."
+CH__civil__19a,EN,DE,"1 Unless the law provides otherwise, the legal representative may consent expressly or tacitly in advance or approve the transaction retrospectively.
+
+2 The other party is relieved of any obligation if approval is not given within a reasonable period that he or she fixes or has fixed by a court.","1 Sofern das Gesetz nichts anderes bestimmt, kann der gesetzliche Vertreter die Zustimmung ausdrücklich oder stillschweigend im Voraus geben oder das Geschäft nachträglich genehmigen.
+
+2 Der andere Teil wird frei, wenn die Genehmigung nicht innerhalb einer angemessenen Frist erfolgt, die er selber ansetzt oder durch das Gericht ansetzen lässt."
+CH__civil__19b,EN,DE,"1 If the legal representative does not grant approval, either party may demand restitution of any performance already made. A person lacking capacity to act is however only liable to the extent that he or she has already benefited from the performance or to which he or she has been enriched at the time of the demand or has alienated the benefits in bad faith.
+
+2 If the person lacking capacity to act has induced the other party to erroneously assume that he or she has the capacity to act, he or she is liable for the damage incurred.","1 Erfolgt die Genehmigung des gesetzlichen Vertreters nicht, so kann jeder Teil die vollzogenen Leistungen zurückfordern. Die handlungsunfähige Person haftet jedoch nur insoweit, als die Leistung in ihrem Nutzen verwendet worden ist oder als sie zur Zeit der Rückforderung noch bereichert ist oder sich böswillig der Bereicherung entäussert hat.
+
+2 Hat die handlungsunfähige Person den andern Teil zur irrtümlichen Annahme ihrer Handlungsfähigkeit verleitet, so ist sie ihm für den verursachten Schaden verantwortlich."
+CH__civil__19c,EN,DE,"1 Persons capable of judgement but lacking capacity to act exercise their strictly personal rights independently; cases where the law requires the consent of the legal representative are reserved.
+
+2 The legal representative acts for a person lacking capacity of judgement unless a right is so strictly personal that any form of representation is excluded.","1 Urteilsfähige handlungsunfähige Personen üben die Rechte, die ihnen um ihrer Persönlichkeit willen zustehen, selbstständig aus; vorbehalten bleiben Fälle, in welchen das Gesetz die Zustimmung des gesetzlichen Vertreters vorsieht.
+
+2 Für urteilsunfähige Personen handelt der gesetzliche Vertreter, sofern nicht ein Recht so eng mit der Persönlichkeit verbunden ist, dass jede Vertretung ausgeschlossen ist."
+CH__civil__19d,EN,DE,The capacity to act may be restricted by an adult protection measure.,Die Handlungsfähigkeit kann durch eine Massnahme des Erwachsenenschutzes eingeschränkt werden.
+CH__civil__20,EN,DE,"1 The degree of kinship
+
+2 Lineal kinship exists between two persons where one is descended from the other and collateral kinship exists between two persons where both are descended from a third person and are not related lineally.","1 Der Grad der Verwandtschaft
+
+2 In gerader Linie sind zwei Personen miteinander verwandt, wenn die eine von der andern abstammt, und in der Seitenlinie, wenn sie von einer dritten Person abstammen und unter sich nicht in gerader Linie verwandt sind."
+CH__civil__21,EN,DE,"1 Where one person is related to another, he or she is related as an in-law to the latter’s spouse or registered partner in the same line and to the same degree.
+
+2 Kinship by marriage is not ended by dissolution of the marriage or of the registered partnership which created it.","1 Wer mit einer Person verwandt ist, ist mit deren Ehegatten, deren eingetragener Partnerin oder deren eingetragenem Partner in der gleichen Linie und in dem gleichen Grade verschwägert.
+
+2 Die Schwägerschaft wird durch die Auflösung der Ehe oder der eingetragenen Partnerschaft, die sie begründet hat, nicht aufgehoben."
+CH__civil__22,EN,DE,"1 The place of origin of a person is determined by his or her citizenship.
+
+2 Citizenship is governed by public law.
+
+3 If a person is a citizen of more than one place, his or her place of origin is the one in which he or she is or was most recently resident or, in the absence of any such residence, the one in which he or she or his or her ancestors last acquired citizenship.","1 Die Heimat einer Person bestimmt sich nach ihrem Bürgerrecht.
+
+2 Das Bürgerrecht wird durch das öffentliche Recht bestimmt.
+
+3 Wenn einer Person das Bürgerrecht an mehreren Orten zusteht, so ist für ihre Heimatangehörigkeit der Ort entscheidend, wo sie zugleich ihren Wohnsitz hat oder zuletzt gehabt hat, und mangels eines solchen Wohnsitzes der Ort, dessen Bürgerrecht von ihr oder ihren Vorfahren zuletzt erworben worden ist."
+CH__civil__23,EN,DE,"1 A person’s domicile is the place in which he or she resides with the intention of settling; residence for the purpose of education or the accommodation of a person in an educative institution or care home, a hospital or a penal institution does not by itself establish domicile.
+
+2 No person may have more than one domicile at a time.
+
+3 This provision does not apply to places of business.","1 Der Wohnsitz einer Person befindet sich an dem Orte, wo sie sich mit der Absicht dauernden Verbleibens aufhält; der Aufenthalt zum Zweck der Ausbildung oder die Unterbringung einer Person in einer Erziehungs- oder Pflegeeinrichtung, einem Spital oder einer Strafanstalt begründet für sich allein keinen Wohnsitz.
+
+2 Niemand kann an mehreren Orten zugleich seinen Wohnsitz haben.
+
+3 Die geschäftliche Niederlassung wird von dieser Bestimmung nicht betroffen."
+CH__civil__24,EN,DE,"1 A person retains his or her domicile until such time as a new one is acquired.
+
+2 A person’s domicile is deemed to be the place in which he or she is temporarily resident if no previously established domicile may be proven or if he or she was formerly resident abroad and has not yet established a domicile in Switzerland.","1 Der einmal begründete Wohnsitz einer Person bleibt bestehen bis zum Erwerbe eines neuen Wohnsitzes.
+
+2 Ist ein früher begründeter Wohnsitz nicht nachweisbar oder ist ein im Ausland begründeter Wohnsitz aufgegeben und in der Schweiz kein neuer begründet worden, so gilt der Aufenthaltsort als Wohnsitz."
+CH__civil__25,EN,DE,"1 The domicile of a child subject to parental responsibility
+
+2 Children under guardianship are domiciled at the seat of the child protection authority.","1 Als Wohnsitz des Kindes unter elterlicher Sorge
+
+2 Bevormundete Kinder haben ihren Wohnsitz am Sitz der Kindesschutzbehörde."
+CH__civil__26,EN,DE,Adults subject to a general deputyship are domiciled at the location of the adult protection authority.,Volljährige unter umfassender Beistandschaft haben ihren Wohnsitz am Sitz der Erwachsenenschutzbehörde.
+CH__civil__27,EN,DE,"1 No person may, wholly or in part, renounce his or her legal capacity or his or her capacity to act.
+
+2 No person may surrender his or her freedom or restrict the use of it to a degree which violates the law or public morals.","1 Auf die Rechts- und Handlungsfähigkeit kann niemand ganz oder zum Teil verzichten.
+
+2 Niemand kann sich seiner Freiheit entäussern oder sich in ihrem Gebrauch in einem das Recht oder die Sittlichkeit verletzenden Grade beschränken."
+CH__civil__28,EN,DE,"1 Any person whose personality rights are unlawfully infringed may petition the court for protection against all those causing the infringement.
+
+2 An infringement is unlawful unless it is justified by the consent of the person whose rights are infringed or by an overriding private or public interest or by law.","1 Wer in seiner Persönlichkeit widerrechtlich verletzt wird, kann zu seinem Schutz gegen jeden, der an der Verletzung mitwirkt, das Gericht anrufen.
+
+2 Eine Verletzung ist widerrechtlich, wenn sie nicht durch Einwilligung des Verletzten, durch ein überwiegendes privates oder öffentliches Interesse oder durch Gesetz gerechtfertigt ist."
+CH__civil__28a,EN,DE,"1 The applicant may ask the court:
+1. to prohibit a threatened infringement;
+2. to order that an existing infringement cease;
+3. to make a declaration that an infringement is unlawful if it continues to have an offensive effect.
+
+2 In particular the applicant may request that the rectification or the judgment be notified to third parties or published.
+
+3 Claims for damages and satisfaction and for handing over profits in accordance with the provisions governing agency without authority are reserved.","1 Der Kläger kann dem Gericht beantragen:
+1. eine drohende Verletzung zu verbieten;
+2. eine bestehende Verletzung zu beseitigen;
+3. die Widerrechtlichkeit einer Verletzung festzustellen, wenn sich diese weiterhin störend auswirkt.
+
+2 Er kann insbesondere verlangen, dass eine Berichtigung oder das Urteil Dritten mitgeteilt oder veröffentlicht wird.
+
+3 Vorbehalten bleiben die Klagen auf Schadenersatz und Genugtuung sowie auf Herausgabe eines Gewinns entsprechend den Bestimmungen über die Geschäftsführung ohne Auftrag."
+CH__civil__28b,EN,DE,"1 To obtain protection from violence, threats or harassment, the applicant may request the court in particular to order the offending party to refrain from:
+1. approaching the applicant or from entering a defined area around the applicant’s dwelling;
+2. frequenting specified locations, notably particular streets, squares or districts;
+3. from making contact with the applicant, especially by telephone, in writing or electronically, or from harassing the applicant in any other way.
+
+2 If the applicant lives in the same dwelling as the offending party, the applicant may ask the court to order the offending party to leave the dwelling for a specified period. This period may be extended on one occasion for good cause.
+
+3 Where justified by the circumstances, the court may:
+1. require the applicant to pay reasonable compensation for his or her exclusive use of the dwelling; or
+2. with the landlord’s consent, transfer the rights and obligations under the lease to the applicant alone.
+
+3bis It shall give notice of its decision to the competent child and adult protection authorities, the competent cantonal authority under paragraph 4 and other authorities and third parties, provided this appears necessary in order to fulfil its responsibilities or for the protection of the applicant, or enables the decision to be enforced.
+
+4 The cantons shall designate an authority which in urgent cases may order the immediate expulsion of the offending party from the joint dwelling and shall enact rules governing the procedure.","1 Zum Schutz gegen Gewalt, Drohungen oder Nachstellungen kann die klagende Person dem Gericht beantragen, der verletzenden Person insbesondere zu verbieten:
+1. sich ihr anzunähern oder sich in einem bestimmten Umkreis ihrer Wohnung aufzuhalten;
+2. sich an bestimmten Orten, namentlich bestimmten Strassen, Plätzen oder Quartieren, aufzuhalten;
+3. mit ihr Kontakt aufzunehmen, namentlich auf telefonischem, schriftlichem oder elektronischem Weg, oder sie in anderer Weise zu belästigen.
+
+2 Lebt die klagende Person mit der verletzenden Person in einer Wohnung zusammen, so kann sie dem Gericht zudem beantragen, die verletzende Person für eine bestimmte Zeit aus der Wohnung auszuweisen. Aus wichtigen Gründen kann diese Frist einmal verlängert werden.
+
+3 Das Gericht kann, sofern dies nach den gesamten Umständen als gerechtfertigt erscheint, der klagenden Person:
+1. für die ausschliessliche Benützung der Wohnung eine angemessene Entschädigung der verletzenden Person auferlegen; oder
+2. mit Zustimmung des Vermieters die Rechte und Pflichten aus einem Mietvertrag allein übertragen.
+
+3bis Es teilt seinen Entscheid den zuständigen Kindes- und Erwachsenenschutzbehörden und der zuständigen kantonalen Stelle nach Absatz 4 sowie weiteren Behörden und Dritten mit, soweit dies zu deren Aufgabenerfüllung oder zum Schutz der klagenden Person notwendig erscheint oder der Vollstreckung des Entscheides dient.
+
+4 Die Kantone bezeichnen eine Stelle, die im Krisenfall die sofortige Ausweisung der verletzenden Person aus der gemeinsamen Wohnung verfügen kann, und regeln das Verfahren."
+CH__civil__28c,EN,DE,"1 The court that issues an injunction pursuant to the provision on violence, threats or harassment, and the enforcement court, may on the applicant's request order the use of an electronic device that is securely attached to the offending party and which can continuously ascertain and record his or her location.
+
+2 The measure may be ordered for a maximum of six months. It may be extended by a maximum of six months at a time. As a precautionary measure, the measure may be ordered for a maximum period of six months.
+
+3 The cantons shall designate an authority that is responsible for enforcing the measure, and shall regulate the enforcement procedure. They shall ensure that the data recorded on the persons concerned are used only to enforce the injunction and are deleted twelve months at the latest after termination of the measure.
+
+4 The applicant must not incur any costs from the enforcement of the measure. The person monitored may be charged the costs of the measure.","1 Das Gericht, das ein Verbot nach der Bestimmung über Gewalt, Drohungen oder Nachstellungen anordnet, sowie das Vollstreckungsgericht können auf Antrag der klagenden Person die Verwendung einer elektronischen Vorrichtung anordnen, die mit der verletzenden Person fest verbunden ist und mit der ihr Aufenthaltsort fortlaufend ermittelt und aufgezeichnet werden kann.
+
+2 Die Massnahme kann für höchstens sechs Monate angeordnet werden. Sie kann um jeweils höchstens sechs Monate verlängert werden. Vorsorglich kann die Massnahme für höchstens sechs Monate angeordnet werden.
+
+3 Die Kantone bezeichnen eine Stelle, die für den Vollzug der Massnahme zuständig ist, und regeln das Vollzugsverfahren. Sie sorgen dafür, dass die aufgezeichneten Daten über die beteiligten Personen nur zur Durchsetzung des Verbots verwendet und spätestens zwölf Monate nach Abschluss der Massnahme gelöscht werden.
+
+4 Der klagenden Person dürfen aus dem Vollzug der Massnahme keine Kosten entstehen. Die Kosten der Massnahme können der überwachten Person auferlegt werden."
+CH__civil__28g,EN,DE,"1 Any person whose personality rights are directly affected by a representation of events in periodically appearing media, especially the press, radio or television, shall have a right of reply.
+
+2 There is no right of reply in respect of accurate reports of the public dealings of an authority in which the affected person took part.","1 Wer durch Tatsachendarstellungen in periodisch erscheinenden Medien, insbesondere Presse, Radio und Fernsehen, in seiner Persönlichkeit unmittelbar betroffen ist, hat Anspruch auf Gegendarstellung.
+
+2 Kein Anspruch auf Gegendarstellung besteht, wenn über öffentliche Verhandlungen einer Behörde wahrheitsgetreu berichtet wurde und die betroffene Person an den Verhandlungen teilgenommen hat."
+CH__civil__28h,EN,DE,"1 The text of the reply must be succinct and confine itself to the subject matter of the contentious representation.
+
+2 The reply may be refused if it is plainly incorrect or violates the law or public morals.","1 Der Text der Gegendarstellung ist in knapper Form auf den Gegenstand der beanstandeten Darstellung zu beschränken.
+
+2 Die Gegendarstellung kann verweigert werden, wenn sie offensichtlich unrichtig ist oder wenn sie gegen das Recht oder die guten Sitten verstösst."
+CH__civil__28i,EN,DE,"1 The author of the reply must send the text to the media company within 20 days of learning of the contentious representation, but at the latest within three months of publication.
+
+2 The media company must immediately inform the author of the reply when it will be published or why it is rejected.","1 Der Betroffene muss den Text der Gegendarstellung innert 20 Tagen, nachdem er von der beanstandeten Tatsachendarstellung Kenntnis erhalten hat, spätestens jedoch drei Monate nach der Verbreitung, an das Medienunternehmen absenden.
+
+2 Das Medienunternehmen teilt dem Betroffenen unverzüglich mit, wann es die Gegendarstellung veröffentlicht oder weshalb es sie zurückweist."
+CH__civil__28k,EN,DE,"1 The reply must be published as soon as possible and in such a manner as to ensure that it reaches the same audience or readership as the contentious representation.
+
+2 The reply must be identified as such; the media company is not permitted to make any addition except to state whether it stands by its representation or to indicate its sources.
+
+3 The reply must be published free of charge.","1 Die Gegendarstellung ist sobald als möglich zu veröffentlichen, und zwar so, dass sie den gleichen Personenkreis wie die beanstandete Tatsachendarstellung erreicht.
+
+2 Die Gegendarstellung ist als solche zu kennzeichnen; das Medienunternehmen darf dazu nur die Erklärung beifügen, ob es an seiner Tatsachendarstellung festhält oder auf welche Quellen es sich stützt.
+
+3 Die Veröffentlichung der Gegendarstellung erfolgt kostenlos."
+CH__civil__28l,EN,DE,"1 If the media company obstructs the right of reply, rejects the reply or fails to publish it correctly, the party in question may petition the court.
+
+2 ...
+
+3 and 4 ...","1 Verhindert das Medienunternehmen die Ausübung des Gegendarstellungsrechts, verweigert es die Gegendarstellung oder veröffentlicht es diese nicht korrekt, so kann der Betroffene das Gericht anrufen.
+
+2 …
+
+3 und 4 …"
+CH__civil__29,EN,DE,"1 If a person’s use of his or her name is disputed, he or she may apply for a court declaration confirming his rights.
+
+2 If a person is adversely affected because another person is using his or her name, he or she may seek an order prohibiting such use and, if the user is at fault, may bring a claim for damages and, where justified by the nature of the infringement, for satisfaction.","1 Wird jemandem die Führung seines Namens bestritten, so kann er auf Feststellung seines Rechtes klagen.
+
+2 Wird jemand dadurch beeinträchtigt, dass ein anderer sich seinen Namen anmasst, so kann er auf Unterlassung dieser Anmassung sowie bei Verschulden auf Schadenersatz und, wo die Art der Beeinträchtigung es rechtfertigt, auf Leistung einer Geldsumme als Genugtuung klagen."
+CH__civil__30,EN,DE,"1 The government of the canton of residence may permit a person to change his or her name for good cause.
+
+2 ...
+
+3 A person adversely affected by a change of name may contest the same in court within one year of learning thereof.","1 Die Regierung des Wohnsitzkantons kann einer Person die Änderung des Namens bewilligen, wenn achtenswerte Gründe vorliegen.
+
+2 …
+
+3 Wer durch Namensänderung verletzt wird, kann sie binnen Jahresfrist, nachdem er von ihr Kenntnis erlangt hat, gerichtlich anfechten."
+CH__civil__30a,EN,DE,"A person whose spouse dies may, if that person changed his or her surname on marriage, at any time declare before the civil registrar the wish to revert to the name by which he or she was known prior to the marriage.","Stirbt ein Ehegatte, so kann der andere, wenn er bei der Eheschliessung seinen Namen geändert hat, jederzeit gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, dass er wieder seinen Ledignamen tragen will."
+CH__civil__30b,EN,DE,"1 Any person who is firmly convinced that they are not of the sex entered in their respect in the civil register may declare to the civil registrar that they wish to have the entry changed.
+
+2 The person making the declaration may have one or more new first names entered in the civil register.
+
+3 The declaration has no legal effect on family relationships.
+
+4 The consent of the legal representative is required if:
+1. the person making the declaration is under the age of 16;
+2. the person making the declaration is subject to a general deputyship; or
+3. the adult protection authority has so ordered.","1 Jede Person, die innerlich fest davon überzeugt ist, nicht dem im Personenstandsregister eingetragenen Geschlecht zuzugehören, kann gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, dass sie den Eintrag ändern lassen will.
+
+2 Die erklärende Person kann einen oder mehrere neue Vornamen in das Personenstandsregister eintragen lassen.
+
+3 Die Erklärung hat keine Auswirkungen auf die familienrechtlichen Verhältnisse.
+
+4 Die Zustimmung des gesetzlichen Vertreters ist erforderlich, wenn:
+1. die erklärende Person das 16. Altersjahr noch nicht vollendet hat;
+2. die erklärende Person unter umfassender Beistandschaft steht; oder
+3. die Erwachsenenschutzbehörde dies angeordnet hat."
+CH__civil__31,EN,DE,"1 Personality rights begin on the birth of the living child and end on death.
+
+2 An unborn child has legal capacity provided that it survives birth.","1 Die Persönlichkeit beginnt mit dem Leben nach der vollendeten Geburt und endet mit dem Tode.
+
+2 Vor der Geburt ist das Kind unter dem Vorbehalt rechtsfähig, dass es lebendig geboren wird."
+CH__civil__32,EN,DE,"1 Any person who, in exercising a right, relies on the fact that another person is living or has died or was alive at a particular time or survived another person must produce evidence thereof.
+
+2 If it cannot be proved that, of a group of several deceased persons, one survived another, all are deemed to have died at the same time.","1 Wer zur Ausübung eines Rechtes sich darauf beruft, dass eine Person lebe oder gestorben sei oder zu einer bestimmten Zeit gelebt oder eine andere Person überlebt habe, hat hiefür den Beweis zu erbringen.
+
+2 Kann nicht bewiesen werden, dass von mehreren gestorbenen Personen die eine die andere überlebt habe, so gelten sie als gleichzeitig gestorben."
+CH__civil__33,EN,DE,"1 Proof of the birth or death of a person is established by the records kept by the civil register.
+
+2 If records are missing or shown to be incorrect, proof may be adduced in another form.","1 Der Beweis für die Geburt oder den Tod einer Person wird mit den Zivilstandsurkunden geführt.
+
+2 Fehlen solche oder sind die vorhandenen als unrichtig erwiesen, so kann der Beweis auf andere Weise erbracht werden."
+CH__civil__34,EN,DE,"The death of a person is deemed proven, even if no-one has seen the corpse, if that person has disappeared in circumstances in which his death may be considered certain.","Der Tod einer Person kann, auch wenn niemand die Leiche gesehen hat, als erwiesen betrachtet werden, sobald die Person unter Umständen verschwunden ist, die ihren Tod als sicher erscheinen lassen."
+CH__civil__35,EN,DE,"1 If it is highly probable that a person is dead because he or she has disappeared in extremely life-threatening circumstances or has been missing for a lengthy period without any sign of life, the court may declare that person presumed dead on application by any person deriving rights from his or her death.
+
+2 ...","1 Ist der Tod einer Person höchst wahrscheinlich, weil sie in hoher Todesgefahr verschwunden oder seit langem nachrichtlos abwesend ist, so kann sie das Gericht auf das Gesuch derer, die aus ihrem Tode Rechte ableiten, für verschollen erklären.
+
+2 …"
+CH__civil__36,EN,DE,"1 The application may be made when at least one year has elapsed since the life-threatening event or five years have elapsed since the last sign of life.
+
+2 The court must, by suitable public means, call on any person who may provide information about the missing person to come forward within a specified period.
+
+3 The period shall run for at least one year following the first public notice.","1 Das Gesuch kann nach Ablauf von mindestens einem Jahre seit dem Zeitpunkte der Todesgefahr oder von fünf Jahren seit der letzten Nachricht angebracht werden.
+
+2 Das Gericht hat jedermann, der Nachrichten über den Verschwundenen oder Abwesenden geben kann, in angemessener Weise öffentlich aufzufordern, sich binnen einer bestimmten Frist zu melden.
+
+3 Diese Frist ist auf mindestens ein Jahr seit der erstmaligen Auskündung anzusetzen."
+CH__civil__37,EN,DE,"If the missing person comes forward within the set period or if news of the missing person is received or if the date of his or her death is proved, the application fails.","Meldet sich innerhalb der Frist der Verschwundene oder Abwesende, oder laufen Nachrichten über ihn ein, oder wird der Zeitpunkt seines Todes nachgewiesen, so fällt das Gesuch dahin."
+CH__civil__38,EN,DE,"1 If no news is received during the set period, the missing person is declared presumed dead and rights derived from the fact of his or her death may be enforced as if death were proven.
+
+2 The declaration of presumed death has retroactive effect from the time of the life-threatening event or the last sign of life.
+
+3 A declaration of presumed death dissolves a marriage.","1 Läuft während der angesetzten Zeit keine Meldung ein, so wird der Verschwundene oder Abwesende für verschollen erklärt, und es können die aus seinem Tode abgeleiteten Rechte geltend gemacht werden, wie wenn der Tod bewiesen wäre.
+
+2 Die Wirkung der Verschollenerklärung wird auf den Zeitpunkt der Todesgefahr oder der letzten Nachricht zurückbezogen.
+
+3 Die Verschollenerklärung löst die Ehe auf."
+CH__civil__39,EN,DE,"1 Civil status is recorded in an electronic register (civil register).
+
+2 Civil status includes in particular:
+1. a person’s particulars, such as those relating to birth, marriage, registered civil partnership and death;
+2. a person’s status under the law of persons and family law, such as majority, parentage, marriage or registered civil partnership;
+3. names;
+4. cantonal and communal citizenship;
+5. nationality.","1 Der Personenstand wird in einem elektronischen Register beurkundet (Personenstandsregister).
+
+2 Zum Personenstand gehören insbesondere:
+1. die Zivilstandstatsachen wie die Geburt, die Heirat, die Beurkundung einer eingetragenen Partnerschaft, der Tod;
+2. die personen- und familienrechtliche Stellung wie die Volljährigkeit, die Abstammung, die Ehe, die eingetragene Partnerschaft;
+3. die Namen;
+4. die Kantons- und Gemeindebürgerrechte;
+5. die Staatsangehörigkeit."
+CH__civil__40,EN,DE,"1 The Federal Council determines which persons and authorities have a duty to furnish the information necessary to record civil status.
+
+2 It may provide that breaches of said duty be punishable by fines.
+
+3 ...","1 Der Bundesrat bestimmt die Personen und Behörden, die verpflichtet sind, die zur Beurkundung des Personenstandes nötigen Angaben zu melden.
+
+2 Er kann vorsehen, dass Verstösse gegen die Meldepflicht mit Busse geahndet werden.
+
+3 …"
+CH__civil__41,EN,DE,"1 Where documentary proof of information concerning civil status is required but is impossible or unreasonably difficult to obtain despite making reasonable efforts, the cantonal supervisory authority may accept a declaration made in the presence of the registrar as proof provided such information is not disputed.
+
+2 The registrar shall remind any person making such a declaration of his or her duty to tell the truth and that a false declaration may lead to prosecution.","1 Wenn Angaben über den Personenstand durch Urkunden zu belegen sind, kann die kantonale Aufsichtsbehörde den Nachweis durch Abgabe einer Erklärung vor der Zivilstandsbeamtin oder dem Zivilstandsbeamten bewilligen, sofern es sich nach hinreichenden Bemühungen als unmöglich oder unzumutbar erweist, die Urkunden zu beschaffen, und die Angaben nicht streitig sind.
+
+2 Die Zivilstandsbeamtin oder der Zivilstandsbeamte ermahnt die erklärende Person zur Wahrheit und weist sie auf die Straffolgen einer falschen Erklärung hin."
+CH__civil__42,EN,DE,"1 Any person who satisfies the court that he or she has a personal interest warranting protection may seek an order for the registration of disputed information concerning personal status or the rectification or removal of an entry. The court shall hear the relevant cantonal supervisory authority, to which it shall notify its judgment.
+
+2 The cantonal supervisory authorities are likewise entitled to make such applications.","1 Wer ein schützenswertes persönliches Interesse glaubhaft macht, kann beim Gericht auf Eintragung von streitigen Angaben über den Personenstand, auf Berichtigung oder auf Löschung einer Eintragung klagen. Das Gericht hört die betroffenen kantonalen Aufsichtsbehörden an und stellt ihnen das Urteil zu.
+
+2 Die kantonalen Aufsichtsbehörden sind ebenfalls klageberechtigt."
+CH__civil__43,EN,DE,The register authorities must of their own accord rectify mistakes resulting from an obvious oversight or error.,"Die Zivilstandsbehörden beheben von Amtes wegen Fehler, die auf einem offensichtlichen Versehen oder Irrtum beruhen."
+CH__civil__43a,EN,DE,"1 In relation to the registration of civil status, the Federal Council is responsible for safeguarding the personality and constitutional rights of persons in respect of whom data is processed.
+
+2 It regulates the disclosure of data to private persons who may show a direct interest warranting protection.
+
+3 It stipulates those authorities, in addition to the register authorities, to whom the data necessary for the performance of their legal duties may be disclosed periodically or on request. The disclosure provisions under cantonal law are reserved.
+
+3bis The register authorities are required to report to the competent authority any criminal offences that come to their attention while carrying out their official duties.
+
+4 The following bodies have online access to data required for proving the identity of a person:
+1. the issuing authorities under the Federal Act of 22 June 2001
+2. the federal agency responsible for operating the computerised police search system under Article 15 of the Federal Act of 13 June 2008
+3. the federal authority responsible for operating the VOSTRA Register of Criminal Records information system in accordance with Article 3 of the Criminal Records Register Act of 17 June 2016
+4. the federal agency responsible for investigations regarding missing persons
+5. the Federal Intelligence Service for the early detection and prevention of threats to internal or external security in accordance with Article 6 paragraph 1 letter a of the Intelligence Service Act of 25 September 2015
+6. the authorities responsible for keeping the cantonal and communal registers of residents in accordance with the Register Harmonisation Act of 23 June 2006
+7. the federal agencies responsible for keeping the central registers of insured persons in accordance with Article 71 paragraph 4 letter a of the Federal Act of 20 December 1946
+8. the federal agencies at the Federal Department of Foreign Affairs responsible for keeping the register of Swiss living abroad in accordance with Article 4 paragraph 1 of the Federal Act of 24 March 2000
+
+5 The federal agency responsible for operating the information system in accordance with Article 21a of the Loss of Earnings Compensation Act of 25 September 1952","1 Der Bundesrat sorgt auf dem Gebiet der Beurkundung des Personenstandes für den Schutz der Persönlichkeit und der Grundrechte der Personen, über die Daten bearbeitet werden.
+
+2 Er regelt die Bekanntgabe von Daten an Private, die ein unmittelbares schutzwürdiges Interesse nachweisen können.
+
+3 Er bestimmt die Behörden ausserhalb des Zivilstandswesens, denen die zur Erfüllung ihrer gesetzlichen Aufgaben nötigen Daten regelmässig oder auf Anfrage bekannt gegeben werden. Vorbehalten bleiben die Vorschriften über die Bekanntgabe nach einem kantonalen Gesetz.
+
+3bis Die Zivilstandsbehörden sind verpflichtet, alle Straftaten, die sie bei ihrer amtlichen Tätigkeit feststellen, der zuständigen Behörde anzuzeigen.
+
+4 Auf Daten, die für die Überprüfung der Identität einer Person notwendig sind, haben im Abrufverfahren Zugriff:
+1. die ausstellenden Behörden nach dem Bundesgesetz vom 22. Juni 2001
+2. die für die Führung des automatisierten Polizeifahndungssystem nach Artikel 15 des Bundesgesetzes vom 13. Juni 2008
+3. die für die Führung des Strafregister-Informationssystems VOSTRA nach Art. 3 des Strafregistergesetzes vom 17. Juni 2016
+4. die für die Nachforschungen nach vermissten Personen zuständige Stelle des Bundes
+5. der Nachrichtendienst des Bundes für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015
+6. die für die Führung der kantonalen und kommunalen Einwohnerregister nach dem Registerharmonisierungsgesetz vom 23. Juni 2006
+7. die für die Führung des zentralen Versichertenregisters nach Artikel 71 Absatz 4 Buchstabe a des Bundesgesetzes vom 20. Dezember 1946
+8. die für die Führung des Auslandschweizerregisters nach Artikel 4 Absatz 1 des Bundesgesetzes vom 24. März 2000
+
+5 Auf Daten, die für die Abklärung des Bestehens von Kindesverhältnissen notwendig sind, hat die für die Führung des Informationssystems nach Artikel 21a des Erwerbsersatzgesetzes vom 25. September 1952"
+CH__civil__44,EN,DE,"1 In particular, the registrars shall perform the following tasks:
+1. they maintain the civil register;
+2. they make notifications and provide extracts;
+3. they carry out the preparatory procedure for weddings and conduct the wedding ceremony;
+4. they record declarations as to civil status.
+
+2 Exceptionally, the Federal Council may entrust a representative of Switzerland abroad with these tasks.","1 Die Zivilstandsbeamtinnen und Zivilstandsbeamten erfüllen insbesondere folgende Aufgaben:
+1. Sie führen die Register.
+2. Sie erstellen die Mitteilungen und Auszüge.
+3. Sie führen das Vorbereitungsverfahren der Eheschliessung durch und vollziehen die Trauung.
+4. Sie nehmen Erklärungen zum Personenstand entgegen.
+
+2 Der Bundesrat kann ausnahmsweise eine Vertreterin oder einen Vertreter der Schweiz im Ausland mit diesen Aufgaben betrauen."
+CH__civil__45,EN,DE,"1 Each canton shall appoint a supervisory authority.
+
+2 In particular, the supervisory authority shall perform the following tasks:
+1. it supervises the register offices;
+2. it supports and advises the register offices;
+3. it assists in maintaining the civil register and in carrying out the preparatory procedure for weddings;
+4. it issues directives on recognition and recording of matters relating to civil status that occur abroad and of foreign judicial and administrative decisions concerning civil status;
+5. it provides for the basic and continuing education and training of persons working in the civil register service.
+
+3 The Confederation is responsible for oversight. It may have recourse to cantonal appeal procedures against the decisions of the registrars and the supervisory authorities.","1 Jeder Kanton bestellt die Aufsichtsbehörde.
+
+2 Diese Behörde erfüllt insbesondere folgende Aufgaben:
+1. Sie beaufsichtigt die Zivilstandsämter.
+2. Sie unterstützt und berät die Zivilstandsämter.
+3. Sie wirkt bei der Registerführung und beim Vorbereitungsverfahren der Eheschliessung mit.
+4. Sie erlässt Verfügungen über die Anerkennung und die Eintragung im Ausland eingetretener Zivilstandstatsachen sowie ausländischer Entscheidungen, die den Personenstand betreffen.
+5. Sie sorgt für die Aus- und Weiterbildung der im Zivilstandswesen tätigen Personen.
+
+3 Der Bund übt die Oberaufsicht aus. Er kann gegen Verfügungen der Zivilstandsbeamtinnen und Zivilstandsbeamten sowie der Aufsichtsbehörden die kantonalen Rechtsmittel einlegen."
+CH__civil__45a,EN,DE,"1 The Confederation shall operate and develop a central civil information system for running a centralised civil register.
+
+2 The Confederation bears the operating and development costs.
+
+3 The cantons shall pay the Confederation an annual fee for the use of the system for the purposes of managing the register of civil status.
+
+4 The Confederation shall involve the cantons in the development of the system and provide technical support in its use.
+
+5 In cooperation with the cantons, the Federal Council regulates:
+1. the details of the cantons’ involvement in developing the system;
+2. the amount to be paid by the cantons for its use;
+3. the rights of access of the civil register authorities and other agencies with access rights;
+4. how the Confederation and cantons cooperate over running the system;
+5. the organisational and technical measures necessary to safeguard data protection and data security and the supervision of compliance with the data protection regulations;
+6. data archiving.
+
+6 It may provide for the costs of services for third parties for purposes unrelated to civil status matters to be charged to these third parties.","1 Der Bund betreibt und entwickelt für die Führung des Personenstandsregisters ein zentrales Personen-Informationssystem.
+
+2 Er trägt die Betriebs- und die Entwicklungskosten.
+
+3 Die Kantone bezahlen dem Bund jährlich eine Gebühr für die Anwendung des Systems für Zwecke des Zivilstandswesens.
+
+4 Der Bund bezieht die Kantone in die Entwicklung des Systems ein. Er unterstützt sie fachlich bei dessen Anwendung.
+
+5 Der Bundesrat regelt unter Mitwirkung der Kantone:
+1. die Einzelheiten des Einbezuges der Kantone in die Entwicklung des Systems;
+2. die Höhe der Gebühr der Kantone für die Anwendung;
+3. die Zugriffsrechte der Zivilstandsbehörden und der weiteren Stellen, die Zugriff haben;
+4. die betriebliche Zusammenarbeit zwischen Bund und Kantonen;
+5. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen sowie die Aufsicht über die Einhaltung der Datenschutzvorschriften;
+6. die Archivierung der Daten.
+
+6 Er kann vorsehen, dass Kosten von Dienstleistungen für Dritte für Zwecke ausserhalb des Zivilstandswesens diesen Dritten in Rechnung gestellt werden."
+CH__civil__46,EN,DE,"1 Any person suffering loss caused unlawfully by persons employed in the civil register service in the exercise of their official duties is entitled to damages and, where justified by the gravity of the loss, to satisfaction.
+
+2 The canton is liable; it may have recourse against persons who have caused loss wilfully or through gross negligence.
+
+3 The Government Liability Act of 14 March 1958","1 Wer durch die im Zivilstandswesen tätigen Personen in Ausübung ihrer amtlichen Tätigkeit widerrechtlich verletzt wird, hat Anspruch auf Schadenersatz und, wo die Schwere der Verletzung es rechtfertigt, auf Genugtuung.
+
+2 Haftbar ist der Kanton; er kann auf die Personen, welche die Verletzung absichtlich oder grobfahrlässig verursacht haben, Rückgriff nehmen.
+
+3 Auf Personen, die vom Bund angestellt sind, findet das Verantwortlichkeitsgesetz vom 14. März 1958"
+CH__civil__47,EN,DE,"1 Wilful or negligent breaches of official duty by persons working in civil register offices are subject to disciplinary measures taken by the cantonal supervisory authority.
+
+2 Disciplinary measures shall consist of reprimands, fines of up to CHF 1000 or, in serious cases, removal from office.
+
+3 The right to prosecute is reserved.","1 Vorsätzliche oder fahrlässige Amtspflichtverletzungen der auf den Zivilstandsämtern tätigen Personen werden von der kantonalen Aufsichtsbehörde mit Disziplinarmassnahmen geahndet.
+
+2 Die Disziplinarmassnahme besteht in einem Verweis, in Busse bis zu 1000 Franken oder, in schweren Fällen, in Amtsenthebung.
+
+3 Vorbehalten bleibt die strafrechtliche Verfolgung."
+CH__civil__48,EN,DE,"1 The Federal Council issues the provisions on implementation.
+
+2 In particular it regulates:
+1. the registers to be maintained and the information to be recorded;
+2. the use of the OASI numberc of the Federal Act of 20 December 1946
+3. the maintenance of the register;
+4. supervision.
+
+3 To ensure technically reliable implementation the Federal Council may set minimum requirements for the basic and continuing education and training of personnel in the civil register service and for the function of registrar.
+
+4 It determines the fees charged by the civil register service.
+
+5 It determines the conditions on which it is permissible by electronic means:
+1. to provide civil status information;
+2. to make declarations concerning civil status;
+3. to make notifications and provide extracts from the civil register.","1 Der Bundesrat erlässt die Ausführungsbestimmungen.
+
+2 Er regelt namentlich:
+1. die zu führenden Register und die einzutragenden Angaben;
+2. die Verwendung der AHV-Nummerc des Bundesgesetzes vom 20. Dezember 1946
+3. die Registerführung;
+4. die Aufsicht.
+
+3 Zur Sicherstellung eines fachlich zuverlässigen Vollzugs kann der Bundesrat Mindestanforderungen an die Aus- und Weiterbildung der im Zivilstandswesen tätigen Personen sowie an den Beschäftigungsgrad der Zivilstandsbeamtinnen und Zivilstandsbeamten erlassen.
+
+4 Er legt die im Zivilstandswesen zu erhebenden Gebühren fest.
+
+5 Er bestimmt, unter welchen Voraussetzungen es zulässig ist, auf elektronischem Weg:
+1. Zivilstandsfälle zu melden;
+2. Erklärungen zum Personenstand abzugeben;
+3. Mitteilungen und Registerauszüge zuzustellen."
+CH__civil__49,EN,DE,"1 The cantons define the civil register districts.
+
+2 They enact the provisions necessary for implementation within the framework of federal law.
+
+3 Such cantonal provisions, with the exception of those concerning remuneration of personnel, are subject to approval by the Confederation.","1 Die Kantone legen die Zivilstandskreise fest.
+
+2 Sie erlassen im Rahmen des Bundesrechts die nötigen Ausführungsbestimmungen.
+
+3 Die kantonalen Vorschriften, ausgenommen diejenigen über die Besoldung der im Zivilstandswesen tätigen Personen, bedürfen zu ihrer Gültigkeit der Genehmigung des Bundes."
+CH__civil__50_51,EN,DE,Repealed,Aufgehoben
+CH__civil__52,EN,FR,"1 Associations of persons organised as corporate bodies and independent bodies with a specific purpose acquire legal personality on being entered in the commercial register.
+
+2 Public law corporations and bodies, and associations that do not have a commercial purpose do not require registration.
+
+3 Associations of persons and bodies which pursue an immoral or unlawful purpose may not acquire legal personality.","1 Les sociétés organisées corporativement, de même que les établissements ayant un but spécial et une existence propre, acquièrent la personnalité en se faisant inscrire au registre du commerce.
+
+2 Sont dispensés de cette formalité les corporations et les établissements de droit public ainsi que les associations qui n’ont pas un but économique.
+
+3 Les sociétés et les établissements qui ont un but illicite ou contraire aux mœurs ne peuvent acquérir la personnalité."
+CH__civil__53,EN,FR,"Legal entities have all the rights and duties other than those which presuppose intrinsically human attributes, such as sex, age or kinship.","Les personnes morales peuvent acquérir tous les droits et assumer toutes les obligations qui ne sont pas inséparables des conditions naturelles de l’homme, telles que le sexe, l’âge ou la parenté."
+CH__civil__54,EN,FR,Legal entities have capacity to act once the governing bodies required by law and their articles of association have been appointed.,Les personnes morales ont l’exercice des droits civils dès qu’elles possèdent les organes que la loi et les statuts exigent à cet effet.
+CH__civil__55,EN,FR,"1 The governing bodies express the will of the legal entity.
+
+2 They bind the legal entity by concluding transactions and by their other actions.
+
+3 The governing officers are also personally liable for their wrongful acts.","1 La volonté d’une personne morale s’exprime par ses organes.
+
+2 Ceux-ci obligent la personne morale par leurs actes juridiques et par tous autres faits.
+
+3 Les fautes commises engagent, au surplus, la responsabilité personnelle de leurs auteurs."
+CH__civil__56,EN,FR,"The seat of the legal entity is located where its administration is carried out, unless its articles of association provide otherwise.","Le siège des personnes morales est, sauf disposition contraire des statuts, au siège de leur administration."
+CH__civil__57,EN,FR,"1 On dissolution of a legal entity, and unless provided otherwise by law, the articles of association, the founding charter or the governing bodies, its assets pass to the state authority (Confederation, canton, commune) to which the entity had been assigned according to its objects.
+
+2 Such assets must be used as far as possible for the original purpose.
+
+3 Where a legal entity is dissolved due to its pursuit of immoral or unlawful objects, the assets pass to the state authority even where contrary provision has been made.","1 Sauf disposition contraire de la loi, des statuts, des actes de fondation ou des organes compétents, la fortune des personnes morales dissoutes est dévolue à la corporation publique (Confédération, canton, commune) dont elles relevaient par leur but.
+
+2 La destination primitive des biens sera maintenue dans la mesure du possible.
+
+3 La dévolution au profit d’une corporation publique aura lieu, nonobstant toute autre disposition, si la personne morale est dissoute parce que son but était illicite ou contraire aux mœurs."
+CH__civil__58,EN,FR,The procedure for liquidating the assets of the legal entity is governed by the regulations for cooperatives.,Les biens des personnes morales sont liquidés en conformité des règles applicables aux sociétés coopératives.
+CH__civil__59,EN,FR,"1 Public and ecclesiastical corporations and institutions are governed by federal and cantonal public law.
+
+2 Associations of persons which pursue a commercial purpose are subject to the provisions on companies and cooperatives.
+
+3 Common land cooperatives and similar bodies remain subject to the provisions of cantonal law.","1 Le droit public de la Confédération et des cantons demeure réservé pour les corporations ou les établissements qui lui sont soumis et pour ceux qui ont un caractère ecclésiastique.
+
+2 Les organisations corporatives qui ont un but économique sont régies par les dispositions applicables aux sociétés.
+
+3 Les sociétés d’allmends et autres semblables continuent à être régies par le droit cantonal."
+CH__civil__60,EN,FR,"1 Associations with a political, religious, scientific, cultural, charitable, social or other non-commercial purpose acquire legal personality as soon as their intention to exist as a corporate body is apparent from their articles of association.
+
+2 The articles of association must be done in writing and indicate the objects of the association, its resources and its organisation.","1 Les associations politiques, religieuses, scientifiques, artistiques, de bienfaisance, de récréation ou autres qui n’ont pas un but économique acquièrent la personnalité dès qu’elles expriment dans leurs statuts la volonté d’être organisées corporativement.
+
+2 Les statuts sont rédigés par écrit et contiennent les dispositions nécessaires sur le but, les ressources et l’organisation de l’association."
+CH__civil__61,EN,FR,"1 Once the articles of association have been ratified and the committee appointed, the association is eligible for entry in the commercial register.
+
+2 The association must be registered if it:
+1. conducts a commercial operation in pursuit of its objects;
+2. is subject to an audit requirement;
+3. primarily collects or distributes assets abroad, directly or indirectly, that are intended for charitable, religious, cultural, educational or social purposes.
+
+2bis The Federal Council shall issue the implementing provisions on the requirement to be entered in the commercial register.
+
+2ter It may exempt associations in accordance with paragraph 2 number 3 from the requirement to be registered in particular if they are exposed to a low risk of abuse for the purpose of money laundering or the financing of terrorism because of the amount, origin, purpose or intended use of the assets collected or distributed.
+
+3 ...","1 L’association dont les statuts ont été adoptés et qui a constitué sa direction peut se faire inscrire au registre du commerce.
+
+2 Est tenue de s’inscrire toute association:
+1. qui, pour atteindre son but, exerce une industrie en la forme commerciale;
+2. qui est soumise à l’obligation de faire réviser ses comptes;
+3. qui, à titre principal, collecte ou distribue directement ou indirectement des fonds à l’étranger à des fins caritatives, religieuses, culturelles, éducatives ou sociales.
+
+2bis Le Conseil fédéral édicte les dispositions d’exécution concernant l’inscription obligatoire au registre du commerce.
+
+2ter Il peut exempter des associations visées à l’al. 2, ch. 3, de l’obligation de s’inscrire si, compte tenu, en particulier, du montant des fonds collectés ou distribués, de la provenance ou de la destination des fonds collectés ou distribués ou de l’affectation des fonds collectés ou distribués, elles présentent un risque faible d’être exploitées à des fins de blanchiment d’argent ou de financement du terrorisme.
+
+3 …"
+CH__civil__61a,EN,FR,"1 Associations that must be entered in the commercial register shall keep a list of their members, including their first and surnames, business names and addresses.
+
+2 They shall keep the list so that it may be accessed at any time in Switzerland.
+
+3 They shall retain the details of each member and any supporting documents for five years after the member has been removed from the list.","1 Les associations tenues de s’inscrire au registre du commerce tiennent une liste des membres où sont mentionnés soit le prénom et le nom soit la raison sociale et l’adresse de chaque membre.
+
+2 Elles tiennent cette liste de manière qu’il soit possible d’y accéder en tout temps en Suisse.
+
+3 Elles conservent les informations relatives à chaque membre et les éventuelles pièces justificatives pendant cinq ans après la radiation du membre concerné."
+CH__civil__62,EN,FR,Associations which cannot acquire or have not yet acquired legal personality are treated as simple partnerships.,Les associations qui ne peuvent acquérir la personnalité ou qui ne l’ont pas encore acquise sont assimilées aux sociétés simples.
+CH__civil__63,EN,FR,"1 Where the articles of association do not provide rules for the association’s organisation or its relationship with its members, the following provisions apply.
+
+2 Mandatory provisions of law cannot be altered by the articles of association.","1 Les articles suivants sont applicables, si les statuts ne renferment pas de règles concernant l’organisation de l’association et ses rapports avec les sociétaires.
+
+2 Les statuts ne peuvent déroger aux règles dont l’application a lieu en vertu d’une disposition impérative de la loi."
+CH__civil__64,EN,FR,"1 The general meeting of members is the supreme governing body of the association.
+
+2 The general meeting is called by the committee.
+
+3 General meetings must be convened in accordance with the rules set out in the articles of association and also, as required by law, if one-fifth of the members so request.","1 L’assemblée générale est le pouvoir suprême de l’association.
+
+2 Elle est convoquée par la direction.
+
+3 La convocation a lieu dans les cas prévus par les statuts et en outre, de par la loi, lorsque le cinquième des sociétaires en fait la demande."
+CH__civil__65,EN,FR,"1 The general meeting of members decides on admission and exclusion of members, appoints the committee and decides all matters which are not reserved to other governing bodies of the association.
+
+2 It supervises the activities of the governing bodies and may at any time dismiss the latter without prejudice to any contractual rights of those dismissed.
+
+3 The right of dismissal exists by law whenever justified by good cause.","1 L’assemblée générale prononce sur l’admission et l’exclusion des membres, nomme la direction et règle les affaires qui ne sont pas du ressort d’autres organes sociaux.
+
+2 Elle contrôle l’activité des organes sociaux et peut les révoquer en tout temps, sans préjudice de leurs droits reconnus conventionnellement.
+
+3 Le pouvoir de révoquer existe de par la loi lorsqu’il est exercé pour de justes motifs."
+CH__civil__66,EN,FR,"1 Resolutions are passed by the general meeting.
+
+2 The written consent of all members to a proposal is equivalent to a resolution of the general meeting.","1 Les décisions de l’association sont prises en assemblée générale.
+
+2 La proposition à laquelle tous les sociétaires ont adhéré par écrit équivaut à une décision de l’assemblée générale."
+CH__civil__67,EN,FR,"1 All members have equal voting rights at the general meeting.
+
+2 Resolutions require a majority of the votes of the members present.
+
+3 Resolutions may be taken on matters for which proper notice has not been given only where this is expressly permitted by the articles of association.","1 Tous les sociétaires ont un droit de vote égal dans l’assemblée générale.
+
+2 Les décisions sont prises à la majorité des voix des membres présents.
+
+3 Elles ne peuvent être prises en dehors de l’ordre du jour que si les statuts le permettent expressément."
+CH__civil__68,EN,FR,"Each member is by law excluded from voting on any resolution concerning a transaction or dispute between him or her, his or her spouse or a lineal relative on the one hand and the association on the other.","Tout sociétaire est de par la loi privé de son droit de vote dans les décisions relatives à une affaire ou un procès de l’association, lorsque lui-même, son conjoint ou ses parents ou alliés en ligne directe sont parties en cause."
+CH__civil__69,EN,FR,"1 The committee is entitled and obliged according to the powers that it is granted under the articles of association to manage and represent the association.
+
+2 Associations that must be entered in the commercial register must be able to be represented by a person who is domiciled in Switzerland. This person must have access to the list of members.","1 La direction a le droit et le devoir de gérer les affaires de l’association et de la représenter en conformité des statuts.
+
+2 Les associations tenues de s’inscrire au registre du commerce doivent pouvoir être représentées par une personne domiciliée en Suisse. Cette personne doit avoir accès à la liste des membres."
+CH__civil__69a,EN,FR,The committee shall maintain the association’s business ledgers. The provisions of the Code of Obligationsmutatis mutandis.,La direction tient les livres de l’association. Les dispositions du code des obligations
+CH__civil__69b,EN,FR,"1 The association must submit its accounts to a full audit by external auditors if two of the following figures are exceeded in two successive business years:
+1. total assets of CHF 10 million;
+2. turnover of CHF 20 million;
+3. average annual total of 50 full-time staff.
+
+2 The association must submit its accounts to a limited audit by external auditors if a member with personal liability or an obligation to provide further capital so requests.
+
+3 The provisions of the Code of Obligationsmutatis mutandis.
+
+4 In all other cases the articles of association and the general meeting","1 L’association doit soumettre sa comptabilité au contrôle ordinaire d’un organe de révision si, au cours de deux exercices successifs, deux des valeurs suivantes sont dépassées:
+1. total du bilan: 10 millions de francs;
+2. chiffre d’affaires: 20 millions de francs;
+3. effectif: 50 emplois à plein temps en moyenne annuelle.
+
+2 L’association doit soumettre sa comptabilité au contrôle restreint d’un organe de révision, si un membre de l’association responsable individuellement ou tenu d’effectuer des versements supplémentaires l’exige.
+
+3 Les dispositions du code des obligations
+
+4 Dans les autres cas, les statuts et l’assemblée générale peuvent organiser le contrôle librement."
+CH__civil__69c,EN,FR,"1 If the association lacks one of the prescribed governing bodies or the list of members in accordance with Article 61a or if it is no longer legally domiciled at its seat, a member or a creditor may apply to the court for an order that the necessary measures be taken.
+
+2 In particular, the court may set the association a time limit in which to restore the situation required by law and may, if necessary, appoint an administrator.
+
+3 The association bears the cost of such measures. The court may order the association to make an advance payment to the persons appointed.
+
+4 For good cause, the association may apply to the court for the removal of the persons it appointed.","1 Lorsque l’association ne possède pas l’un des organes prescrits, ne tient pas la liste des membres selon l’art. 61a ou n’a plus de domicile à son siège, un membre ou un créancier peut requérir du tribunal qu’il prenne les mesures nécessaires.
+
+2 Le juge peut notamment fixer à l’association un délai pour régulariser sa situation; si nécessaire, il nomme un commissaire.
+
+3 L’association supporte les frais de ces mesures. Le juge peut astreindre l’association à verser une provision à la personne nommée.
+
+4 Pour de justes motifs, l’association peut demander au juge de révoquer une personne qu’il a nommée."
+CH__civil__69d,EN,FR,"For associations that require to be entered in the commercial register, the provisions of company law on imminent insolvency and on overindebtedness and on the revaluation of land, buildings and equity participations apply accordingly.",Les dispositions du droit de la société anonyme régissant la menace d’insolvabilité et le surendettement ainsi que la réévaluation des immeubles et des participations s’appliquent par analogie aux associations tenues de requérir leur inscription au registre du commerce.
+CH__civil__70,EN,FR,"1 Members may be admitted at any time.
+
+2 All members have a legal right to resign subject to six months’ notice expiring at the end of the calendar year or, if an administrative period is provided for, at the end of such period.
+
+3 Membership is neither transferable nor heritable.","1 L’association peut en tout temps recevoir de nouveaux membres.
+
+2 Chaque sociétaire est autorisé de par la loi à sortir de l’association, pourvu qu’il annonce sa sortie six mois avant la fin de l’année civile ou, lorsqu’un exercice administratif est prévu, six mois avant la fin de celui-ci.
+
+3 La qualité de sociétaire est inaliénable et ne passe point aux héritiers."
+CH__civil__71,EN,FR,Members have a duty to pay subscriptions if the articles of association so provide.,Les membres de l’association peuvent être tenus de verser des cotisations si les statuts le prévoient.
+CH__civil__72,EN,FR,"1 The articles of association may specify the grounds on which a member may be excluded, but exclusion may also occur without reasons being given.
+
+2 In such cases, the exclusion may not be challenged based on the reasons.
+
+3 Unless the articles of association provide otherwise, exclusion requires a resolution by the members and good cause.","1 Les statuts peuvent déterminer les motifs d’exclusion d’un sociétaire; ils peuvent aussi permettre l’exclusion sans indication de motifs.
+
+2 Dans ces cas, les motifs pour lesquels l’exclusion a été prononcée ne peuvent donner lieu à une action en justice.
+
+3 Si les statuts ne disposent rien à cet égard, l’exclusion n’est prononcée que par décision de la société et pour de justes motifs."
+CH__civil__73,EN,FR,"1 Members who resign or are excluded have no claim on the assets of the association.
+
+2 They are liable for the subscriptions due during the period of their membership.","1 Les membres sortants ou exclus perdent tout droit à l’avoir social.
+
+2 Ils doivent leur part de cotisations pour le temps pendant lequel ils ont été sociétaires."
+CH__civil__74,EN,FR,No member may be forced against his or her will to accept a change in the objects of the association.,La transformation du but social ne peut être imposée à aucun sociétaire.
+CH__civil__75,EN,FR,Any member who has not consented to a resolution which infringes the law or the articles of association is entitled by law to challenge such resolution in court within one month of learning thereof.,"Tout sociétaire est autorisé de par la loi à attaquer en justice, dans le mois à compter du jour où il en a eu connaissance, les décisions auxquelles il n’a pas adhéré et qui violent des dispositions légales ou statutaires."
+CH__civil__75a,EN,FR,The association is liable for its obligations with its assets. Such liability is limited to the assets unless the articles of association provide otherwise.,"Sauf disposition contraire des statuts, l’association répond seule de ses dettes, qui sont garanties par sa fortune sociale."
+CH__civil__76,EN,FR,The association may be dissolved at any time by resolution of the members.,L’association peut décider sa dissolution en tout temps.
+CH__civil__77,EN,FR,The association is dissolved by operation of law if it is insolvent or if the committee may no longer be appointed in accordance with the articles of association.,L’association est dissoute de plein droit lorsqu’elle est insolvable ou lorsque la direction ne peut plus être constituée statutairement.
+CH__civil__78,EN,FR,"Where the objects of the association are unlawful or immoral, the competent authority or an interested party may apply for a court order of dissolution.","La dissolution est prononcée par le juge, à la demande de l’autorité compétente ou d’un intéressé, lorsque le but de l’association est illicite ou contraire aux mœurs."
+CH__civil__79,EN,FR,"Where the association is registered, the committee or the court shall inform the commercial registrar of the dissolution so that the entry may be deleted.","Si l’association est inscrite au registre du commerce, la dissolution est déclarée par la direction ou par le juge au préposé chargé de radier."
+CH__civil__80,EN,FR,A foundation is established by the endowment of assets for a particular purpose.,La fondation a pour objet l’affectation de biens en faveur d’un but spécial.
+CH__civil__81,EN,FR,"1 A foundation may be created by public deed or by disposition mortis causa.
+
+2 The foundation is entered in the commercial register based on its charter and, as the case may be, in accordance with any directions issued by the supervisory authority, and the entry must indicate the members of the board of trustees.
+
+3 The probate authority shall inform the commercial registrar of the creation of the foundation by disposition mortis causa.","1 La fondation est constituée par acte authentique ou par disposition pour cause de mort.
+
+2 L’inscription au registre du commerce s’opère à teneur de l’acte de fondation et, au besoin, suivant les instructions de l’autorité de surveillance; elle indique les noms des membres de la direction.
+
+3 L’autorité qui procède à l’ouverture de la disposition pour cause de mort avise le préposé au registre du commerce de la constitution de la fondation."
+CH__civil__82,EN,FR,A foundation may be challenged by the founder’s heirs or creditors in the same manner as a gift.,"La fondation peut être attaquée, comme une donation, par les héritiers ou par les créanciers du fondateur."
+CH__civil__83,EN,FR,The foundation charter shall stipulate the foundation’s governing bodies and the manner in which it is to be administered.,L’acte de fondation indique les organes de celle-ci et son mode d’administration.
+CH__civil__83a,EN,FR,1 The supreme governing body of the foundation shall maintain its business ledgers. The provisions of the Code of Obligations on commercial bookkeeping and accounting apply mutatis mutandis.,L’organe suprême de la fondation tient les livres de la fondation. Les dispositions du code des obligations
+CH__civil__83b,EN,FR,"1 The board of trustees shall appoint external auditors.
+
+2 The supervisory authority may exempt a foundation from the duty to appoint external auditors. The Federal Council determines the conditions for such exemption.
+
+3 Where there are no special provisions for foundations, the provisions of the Code of Obligationsmutatis mutandis.
+
+4 If the foundation has a duty to carry out a limited audit, the supervisory authority may require a full audit where necessary for a reliable assessment of the foundation’s financial situation.","1 L’organe suprême de la fondation désigne un organe de révision.
+
+2 L’autorité de surveillance peut dispenser la fondation de l’obligation de désigner un organe de révision. Le Conseil fédéral définit les conditions de la dispense.
+
+3 À défaut de dispositions spéciales applicables aux fondations, les dispositions du code des obligations
+
+4 Lorsque la fondation est tenue à un contrôle restreint, l’autorité de surveillance peut exiger un contrôle ordinaire, si cela est nécessaire pour révéler l’état du patrimoine et les résultats de la fondation."
+CH__civil__83c,EN,FR,The external auditors must provide the supervisory authority with a copy of the audit report and all important communications with the foundation.,L’organe de révision transmet à l’autorité de surveillance une copie du rapport de révision ainsi que de l’ensemble des communications importantes adressées à la fondation.
+CH__civil__83d,EN,FR,"1 If the planned system of organisation proves inadequate, if the foundation lacks one of the prescribed governing bodies or one such body is not lawfully constituted, or if the foundation is no longer legally domiciled at its seat, the supervisory authority must take the necessary measures. In particular it may:
+1. set a time limit within which the foundation must restore the legally required situation; or
+2. appoint the body which is lacking or an administrator.
+
+2 In the event that the foundation is unable to organise itself effectively, the supervisory authority shall transfer its assets to another foundation with as similar objects as possible.
+
+3 The foundation bears the cost of such measures. The supervisory authority may require the foundation to make an advance payment to the persons appointed.
+
+4 For good cause, the foundation may request the supervisory authority to remove persons whom it has appointed.","1 Lorsque l’organisation prévue par l’acte de fondation n’est pas suffisante, que la fondation ne possède pas tous les organes prescrits ou qu’un de ces organes n’est pas composé conformément aux prescriptions ou que la fondation ne possède plus de domicile à son siège, l’autorité de surveillance prend les mesures nécessaires. Elle peut notamment:
+1. fixer un délai à la fondation pour régulariser sa situation;
+2. nommer l’organe qui fait défaut ou un commissaire.
+
+2 Lorsque la fondation ne peut être organisée conformément à son but, l’autorité de surveillance remet les biens à une autre fondation dont le but est aussi proche que possible de celui qui avait été prévu.
+
+3 La fondation supporte les frais de ces mesures. L’autorité de surveillance peut l’astreindre à verser une provision à la personne nommée.
+
+4 Pour de justes motifs, la fondation peut demander à l’autorité de surveillance de révoquer une personne qu’elle a nommée."
+CH__civil__84,EN,FR,"1 Foundations are supervised by the state authority (Confederation, canton, commune) to which they are assigned.
+
+1bis The cantons may subject foundations at communal level to supervision at cantonal level.
+
+2 The supervisory authority must ensure that the foundation’s assets are used for their declared purpose.
+
+3 Beneficiaries or creditors of the foundation, the founder, donors and current and former members of the foundation board who have an interest in ensuring that the administration of the foundation complies with the law and the foundation charter may appeal to the supervisory authority against acts or omissions of the foundation’s governing bodies.","1 Les fondations sont placées sous la surveillance de la corporation publique (Confédération, canton, commune) dont elles relèvent par leur but.
+
+1bis Les cantons peuvent soumettre les fondations dont la surveillance relève des communes au contrôle de l’autorité cantonale de surveillance.
+
+2 L’autorité de surveillance pourvoit à ce que les biens des fondations soient employés conformément à leur destination.
+
+3 Les bénéficiaires ou les créanciers de la fondation, le fondateur, les contributeurs ultérieurs de même que les anciens et les actuels membres du conseil de fondation qui ont un intérêt à contrôler que l’administration de la fondation est conforme à la loi et à l’acte de fondation peuvent déposer une plainte auprès de l’autorité de surveillance contre les actes ou les omissions des organes de la fondation."
+CH__civil__84a,EN,FR,"1 In the event of imminent insolvency or overindebtedness, the board of trustees must notify the supervisory authority immediately.
+
+2 If the external auditors establish that the foundation is insolvent or overindebted, they shall notify the supervisory authority.
+
+3 The supervisory authority shall direct the board of trustees to take the necessary measures. If it fails to do so, the supervisory authority shall take such measures itself or shall notify the court.
+
+4 The provisions of company law on establishing overindebtedness and on the revaluation of land, buildings and equity participations apply accordingly.","1 En cas de menace d’insolvabilité ou de surendettement, l’organe suprême de la fondation en avise sans délai l’autorité de surveillance.
+
+2 Si l’organe de révision constate que la fondation est insolvable ou surendettée, il en informe l’autorité de surveillance.
+
+3 L’autorité de surveillance ordonne à l’organe suprême de la fondation de prendre les mesures nécessaires. S’il ne le fait pas, l’autorité de surveillance prend elle-même les mesures qui s’imposent ou avise le tribunal.
+
+4 Les dispositions du droit de la société anonyme régissant le surendettement ainsi que la réévaluation des immeubles et des participations sont applicables par analogie."
+CH__civil__84b,EN,FR,The board of trustees must separately notify the supervisory authority annually of the total amount of remuneration within the meaning of Article 734a paragraph 2 of the Code of Obligations,"L’organe suprême de la fondation communique tous les ans à l’autorité de surveillance séparément le montant global des indemnités au sens de l’art. 734a, al. 2, du code des obligations"
+CH__civil__85,EN,FR,"At the request of the supervisory authority and having heard the board of trustees, the competent federal or cantonal authority may modify the foundation’s organisation where such a step is urgently required in order to preserve the foundation’s assets or safeguard the pursuit of its objects.","L’autorité fédérale ou cantonale compétente peut, sur la proposition de l’autorité de surveillance et après avoir entendu l’organe suprême de la fondation, modifier l’organisation de celle-ci, lorsque cette mesure est absolument nécessaire pour conserver les biens ou pour maintenir le but de la fondation."
+CH__civil__86,EN,FR,"1 At the request of the supervisory authority or the board of trustees, the competent federal or cantonal authority may amend the objects of the foundation where the original objects have altered in significance or effect to such an extent that the foundation has plainly become estranged from the founder’s intentions.
+
+2 Subject to the same requirements, conditions that are detrimental to the objects of the foundation may be revoked or amended.","1 L’autorité fédérale ou cantonale compétente peut, sur requête de l’autorité de surveillance ou de l’organe suprême de la fondation, modifier le but de celle-ci, lorsque le caractère ou la portée du but primitif a varié au point que la fondation ne répond manifestement plus aux intentions du fondateur.
+
+2 Peuvent être supprimées ou modifiées de la même manière et dans les mêmes circonstances les charges et conditions qui compromettent le but du fondateur."
+CH__civil__86a,EN,FR,"1 The competent federal or cantonal authority shall amend the objects of the foundation or its organisational form at the founder’s request or in accordance with his or her disposition mortis causa, provided that the charter reserves the right to amend the objects or the organisational form and that at least ten years have elapsed since the foundation was established or since the last amendment to the objects or the organisational form was requested by the founder. The limitation periods run independently of each other.
+
+2 Where the foundation pursues public or charitable objects within the meaning of Article 56 letter g of the Federal Act of 14 December 1990 on Direct Federal Taxation, such new objects must likewise be public or charitable.
+
+3 The right to amend a foundation’s objects or organisational form is neither transferable nor heritable.
+
+4 Joint founders may only jointly request an amendment of the foundation’s objects or organisational form.
+
+5 The probate authority shall inform the competent authority of any disposition mortis causa concerning the amendment of the foundation’s objects or organisational form.","1 L’autorité fédérale ou cantonale compétente modifie, sur requête du fondateur ou en raison d’une disposition pour cause de mort prise par celui-ci, le but ou l’organisation de la fondation lorsque l’acte de fondation réserve cette possibilité et que 10 ans au moins se sont écoulés depuis la constitution de la fondation ou depuis la dernière modification du but ou de l’organisation requise par le fondateur. Les délais courent indépendamment les uns des autres.
+
+2 Si la fondation poursuit un but de service public ou d’utilité publique au sens de l’art. 56, let. g, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct
+
+3 Le droit d’exiger la modification du but ou de l’organisation est incessible et ne passe pas aux héritiers.
+
+4 Lorsque la fondation a été constituée par plusieurs fondateurs, ceux-ci doivent requérir la modification du but ou de l’organisation conjointement.
+
+5 L’autorité qui procède à l’ouverture de la disposition pour cause de mort avise l’autorité de surveillance compétente de la disposition prévoyant la modification du but ou de l’organisation de la fondation."
+CH__civil__86b,EN,FR,"Having heard the board of trustees, the supervisory authority may make minor amendments to the foundation charter provided these are objectively justified and do not impair the rights of any third party.","L’autorité de surveillance peut, après avoir entendu l’organe suprême de la fondation, apporter des modifications accessoires à l’acte de fondation lorsque celles-ci sont justifiées par des motifs objectifs et qu’elles ne lèsent pas les droits de tiers."
+CH__civil__86c,EN,FR,Amendments to the foundation charter in accordance with Articles 85–86b shall be subject to a ruling from the competent federal or cantonal authority from the supervisory authority. A public deed is not required for the amendments.,L’autorité fédérale ou cantonale compétente ou l’autorité de surveillance rend une décision sur les modifications de l’acte de fondation demandées conformément aux art. 85 à 86b. Un acte authentique n’est pas nécessaire à cet effet.
+CH__civil__87,EN,FR,"1 Family and ecclesiastical foundations are not subject to supervision, unless otherwise provided by public law.
+
+1bis They are exempt from the duty to appoint external auditors.
+
+2 Private law disputes are decided by the courts.","1 Sous réserve des règles du droit public, les fondations de famille et les fondations ecclésiastiques ne sont pas soumises au contrôle de l’autorité de surveillance.
+
+1bis Elles sont déliées de l’obligation de désigner un organe de révision.
+
+2 Les contestations de droit privé sont tranchées par le juge."
+CH__civil__88,EN,FR,"1 The competent federal or cantonal authority shall dissolve the foundation on application or of its own accord if:
+1. its objects have become unattainable and the foundation cannot be maintained by modifying its charter; or
+2. its objects have become unlawful or immoral.
+
+2 Family and ecclesiastical foundations shall be dissolved by court order.","1 L’autorité fédérale ou cantonale compétente prononce la dissolution de la fondation, sur requête ou d’office lorsque:
+1. le but de la fondation ne peut plus être atteint et que la fondation ne peut être maintenue par une modification de l’acte de fondation ou
+2. le but de la fondation est devenu illicite ou contraire aux mœurs.
+
+2 La dissolution de fondations de famille et de fondations ecclésiastiques est prononcée par le tribunal."
+CH__civil__89,EN,FR,"1 Any interested party may file an application or bring an action for the dissolution of a foundation.
+
+2 Dissolution must be reported to the commercial registrar so that the entry may be deleted.","1 La requête ou l’action en dissolution de la fondation peut être intentée par toute personne intéressée.
+
+2 La dissolution est communiquée au préposé au registre du commerce afin qu’il procède à la radiation de l’inscription."
+CH__civil__89a,EN,FR,"1 The following additional provisions apply to employee benefits schemes established in accordance with Art. 331 of the Code of Obligations
+
+2 The foundation’s governing bodies must furnish the beneficiaries with the necessary information concerning the foundation’s organisation, activities and assets.
+
+3 If employees pay contributions into the benefits scheme, they are entitled to participate in its administration at least in proportion to their contributions; wherever possible, the employees must elect their representative from among their employer’s personnel.
+
+4 ...
+
+5 The beneficiaries may sue the foundation for the distribution of benefits if they have paid contributions into it or if according to the foundation’s regulations they have a legal entitlement to such benefits.
+
+6 For employee benefits schemes providing old age, survivors’ and invalidity pensions which are subject to the Vested Benefits Act of 17 December 1993
+1. the definition and principles of occupational pension arrangements and the insurable salary or income (Art. 1, 33a and 33b);
+2. the requirement of being subject to OASI (Art. 5 para. 1);
+2a. the drawing of retirement benefits (Art. 13 para. 2, Art. 13a and 13b),
+3. the beneficiaries in the case of survivors’ benefits (Art. 20a);
+3a. the adjustment of the invalidity pension following the equitable division of occupational pensions (Art. 24 para. 5);
+3b. the provisional continuation of insurance and of the entitlement to benefits on the reduction or termination of the invalidity pension (Art. 26a);
+4. the adjustment of plan benefits to inflation (Art. 36 para. 2–4);
+[tab] 4a.a);
+4b. the measures in the case of neglect of maintenance obligations (Art. 40);
+5. the prescription of claims and the safekeeping of insurance documents (Art. 41);
+5a. the use, processing and disclosure of the OASI number (Art. 48 para. 4, Art. 85a lit. f and Art. 86a para. 2 lit. bbis);
+6. liability (Art. 52);
+7. the licensing and duties of the supervisory bodies
+8. the integrity and loyalty of the persons responsible, transactions with close associates and conflicts of interest
+9. partial or total liquidation (Art. 53b–53d);
+10. termination of contracts (Art. 53e–53f);
+11. the guarantee fund (Art. 56 para. 1 let. c and i and para. 2–5, Art. 56a, 57 and 59);
+12. supervision and oversight (Art. 61–62a and 64–64c);
+13. ...
+14. financial security (Art. 65 para. 1, 3 and 4, Art. 66 para. 4, Art. 67 and Art. 72a–72g);
+15. transparency (Art. 65a);
+16. reserves and fluctuation reserves (Art. 65b);
+17. insurance contracts between occupational benefits schemes and insurance institutions (Art. 68 para. 3 and 4);
+18. asset management (Art. 71) and the shareholder’s requirement to vote (Art. 71a and 71b);
+19. legal recourse (Art. 73 and 74);
+20. criminal provisions (Art. 75–79);
+21. buy-in (Art. 79b);
+22. insurable salary and income (Art. 79c);
+23. provision of information to insured persons (Art. 86b).
+
+7 For employee benefits schemes providing old age, survivors’ and invalidity pensions but which are not subject to the VBA, such as employer-sponsored welfare funds with discretionary benefits and financing foundations, only the following provisions of the OPA apply:
+1. the requirement of being subject to OASI (Art. 5 para. 1);
+2. the use, processing and disclosure of the OASI number (Art. 48 para. 4, 85a let. f and 86a para. 2 let. bbis);
+3. liability (Art. 52);
+4. the licensing and duties of the auditors (Art. 52a, 52b and 52c para. 1 let. a–d and g, 2 and 3);
+5. the integrity and loyalty of the persons responsible, transactions with close associates and conflicts of interest (Art. 51b, 51c and 53a);
+6. total liquidation (Art. 53c);
+7. supervision and oversight (Art. 61–62a and 64–64b);
+8. legal recourse (Art. 73 and 74);
+9. criminal provisions (Art. 75–79);
+10. tax treatment (Art. 80, 81 para. 1 and 83).
+
+8 For employee benefits schemes under paragraph 7, the following provisions also apply:
+1. they manage their assets so that security, an adequate yield on investments and the required liquidity for their tasks are guaranteed.
+2. the supervisory authority shall rule on partial liquidation matters related to employer-sponsored welfare funds with discretionary benefits at the request of the foundation board.
+3. they shall respect the principles of equal treatment and fairness mutatis mutandis.
+4. they may:– contribute to financing other employee benefits schemes;– pay benefits in emergencies, in the event of illness, accident, invalidity or unemployment, for measures relating to basic and continuous education and training, to the compatibility of family and employment and to health promotion and prevention; in these cases, Articles 80, 81 paragraph 1 und 83 OBA also apply.","1 Les institutions de prévoyance en faveur du personnel constituées sous forme de fondations en vertu de l’art. 331 du code des obligations
+
+2 Les organes de la fondation doivent donner aux bénéficiaires les renseignements nécessaires sur l’organisation, l’activité et la situation financière de la fondation.
+
+3 Si les travailleurs versent des contributions à la fondation, ils participent à l’administration dans la mesure au moins de ces versements. Dans la mesure du possible, ils élisent eux-mêmes des représentants choisis dans le sein du personnel.
+
+4 …
+
+5 Les bénéficiaires peuvent exiger en justice des prestations de la fondation, lorsqu’ils lui ont versé des contributions ou que les dispositions régissant la fondation leur donnent un droit à des prestations.
+
+6 Les fondations de prévoyance en faveur du personnel dont l’activité s’étend au domaine de la prévoyance vieillesse, survivants et invalidité et qui sont soumises à la loi du 17 décembre 1993 sur le libre passage (LFLP)
+1. la définition et les principes de la prévoyance professionnelle et le salaire ou le revenu assuré (art. 1, 33a et 33b),
+2. l’assujettissement des personnes à l’AVS (art. 5, al. 1),
+2a. la perception de la prestation de vieillesse (art. 13, al. 2, 13a et 13b),
+3. les bénéficiaires de prestations de survivants (art. 20a),
+3a. l’adaptation de la rente d’invalidité après le partage de la prévoyance professionnelle (art. 24, al. 5),
+3b. le maintien provisoire de l’assurance et du droit aux prestations en cas de réduction ou de suppression de la rente de l’assurance-invalidité (art. 26a),
+4. l’adaptation à l’évolution des prix des prestations réglementaires (art. 36, al. 2 à 4),
+4a. le consentement au versement de la prestation en capital (art. 37a),
+4b. les mesures en cas de négligence de l’obligation d’entretien (art. 40),
+5. la prescription des droits et la conservation des pièces (art. 41),
+5a. l’utilisation, le traitement et la communication du numéro AVS (art. 48, al. 4, 85a, let. f, et 86a, al. 2, let. bbis),
+6. la responsabilité (art. 52),
+7. l’agrément et les tâches des organes de contrôle (art. 52a à 52e),
+8. l’intégrité et la loyauté des responsables, les actes juridiques passés avec des personnes proches et les conflits d’intérêts (art. 51b, 51c et 53a),
+9. la liquidation partielle ou totale (art. 53b à 53d),
+10. la résiliation de contrats (art. 53e à 53f),
+11. le fonds de garantie (art. 56, al. 1, let. c et i, et 2 à 5, 56a, 57 et 59),
+12. la surveillance et la haute surveillance (art. 61 à 62a et 64 à 64c),
+13. …
+14. la sécurité financière (art. 65, al. 1, 3 et 4, 66, al. 4, 67 et 72a à 72g),
+15. la transparence (art. 65a),
+16. les provisions et les réserves de fluctuation de valeur (art. 65b),
+17. les contrats d’assurance entre institutions de prévoyance et institutions d’assurance (art. 68, al. 3 et 4),
+18. l’administration de la fortune (art. 71) et l’obligation de voter en qualité d’actionnaire (art. 71a et 71b);
+19. le contentieux (art. 73 et 74),
+20. les dispositions pénales (art. 75 à 79),
+21. le rachat (art. 79b),
+22. le salaire et le revenu assurable (art. 79c),
+23. l’information des assurés (art. 86b).
+
+7 Les fondations de prévoyance en faveur du personnel dont l’activité s’étend au domaine de la prévoyance vieillesse, survivants et invalidité mais qui ne sont pas soumises à la LFLP, comme les fonds patronaux de prévoyance à prestations discrétionnaires et les fondations de financement, sont régies exclusivement par les dispositions suivantes de la LPP sur:
+1. l’assujettissement des personnes à l’AVS (art. 5, al. 1);
+2. l’utilisation, le traitement et la communication du numéro AVS (art. 48, al. 4, 85a, let. f, et 86a, al. 2, let. bbis);
+3. la responsabilité (art. 52);
+4. l’agrément et les tâches de l’organe de révision (art. 52a, 52b et 52c, al. 1, let. a à d et g, 2 et 3);
+5. l’intégrité et la loyauté des responsables, les actes juridiques passés avec des personnes proches et les conflits d’intérêts (art. 51b, 51c et 53a);
+6. la liquidation totale (art. 53c);
+7. la surveillance et la haute surveillance (art. 61 à 62a et 64 à 64b);
+8. le contentieux (art. 73 et 74);
+9. les dispositions pénales (art. 75 à 79);
+10. le traitement fiscal (art. 80, 81, al. 1, et 83).
+
+8 Les fondations de prévoyance visées à l’al. 7 sont en outre régies par les dispositions suivantes:
+1. elles administrent leur fortune de manière à garantir la sécurité des placements, un rendement raisonnable et à disposer des liquidités nécessaires à l’exécution de leurs tâches;
+2. l’autorité de surveillance décide, sur demande du conseil de fondation, de la liquidation partielle des fonds patronaux de prévoyance à prestations discrétionnaires;
+3. elles tiennent compte, par analogie, des principes de l’égalité de traitement et de l’adéquation;
+4. elles peuvent:– contribuer au financement d’autres institutions de prévoyance en faveur du personnel,– allouer des prestations dans des situations de détresse, de maladie, d’accident, d’invalidité ou de chômage, ou pour des mesures de formation et de formation continue, de conciliation de la vie familiale et de la vie professionnelle ainsi que de promotion de la santé et de prévention; dans ces cas, les art. 80, 81, al. 1, et 83 LPP sont également applicables."
+CH__civil__1,EN,IT,"1 The law applies according to its wording or interpretation to all legal questions for which it contains a provision.
+
+2 In the absence of a provision, the court
+
+3 In doing so, the court shall follow established doctrine and case law.","1 La legge si applica a tutte le questioni giuridiche alle quali può riferirsi la lettera od il senso di una sua disposizione.
+
+2 Nei casi non previsti dalla legge il giudice decide secondo la consuetudine e, in difetto di questa, secondo la regola che egli adotterebbe come legislatore.
+
+3 Egli si attiene alla dottrina ed alla giurisprudenza più autorevoli."
+CH__civil__2,EN,IT,"1 Every person must act in good faith in the exercise of his or her rights and in the performance of his or her obligations.
+
+2 The manifest abuse of a right is not protected by law.","1 Ognuno è tenuto ad agire secondo la buona fede così nell’esercizio dei propri diritti come nell’adempimento dei propri obblighi.
+
+2 Il manifesto abuso del proprio diritto non è protetto dalla legge."
+CH__civil__3,EN,IT,"1 Where the law makes a legal effect conditional on the good faith of a person, there shall be a presumption of good faith.
+
+2 No person may invoke the presumption of good faith if he or she has failed exercise the diligence required by the circumstances.","1 Quando la legge fa dipendere un effetto giuridico dalla buona fede di una persona, la buona fede si presume.
+
+2 Nessuno può invocare la propria buona fede quando questa sia incompatibile con l’attenzione che le circostanze permettevano di esigere da lui."
+CH__civil__4,EN,IT,"Where the law confers discretion on the court or makes reference to an assessment of the circumstances or to good cause, the court must reach its decision in accordance with the principles of justice and equity.","Il giudice è tenuto a decidere secondo il diritto e l’equità quando la legge si rimette al suo prudente criterio o fa dipendere la decisione dall’apprezzamento delle circostanze, o da motivi gravi."
+CH__civil__5,EN,IT,"1 Insofar as federal law reserves the application of cantonal law, the cantons may enact or repeal civil law provisions.
+
+2 Where the law makes reference to practice or local custom, the existing cantonal law is deemed a valid expression thereof, provided no divergent practice is shown to exist.","1 I Cantoni sono autorizzati ad emanare ed abrogare disposizioni di diritto civile nelle materie riservate al diritto cantonale.
+
+2 Quando la legge si riferisce all’uso od all’uso locale, il diritto cantonale finora esistente vale come espressione dei medesimi, in quanto non sia provato un uso che vi deroghi."
+CH__civil__6,EN,IT,"1 Federal civil law does not restrict the right of the cantons to enact public law.
+
+2 The cantons are entitled within the limits of their sovereignty to restrict or prohibit the trade in certain goods or to declare transactions involving such goods legally invalid.","1 Il diritto civile federale non limita le competenze di diritto pubblico dei Cantoni.
+
+2 I Cantoni possono, nei limiti della loro sovranità, interdire o limitare il commercio di determinate cose o dichiarare nulli i rapporti contrattuali relativi alle medesime."
+CH__civil__7,EN,IT,The general provisions of the Code of Obligations,Le disposizioni generali del Codice delle obbligazioni
+CH__civil__8,EN,IT,"Unless the law provides otherwise, the burden of proving the existence of an alleged fact shall rest on the person who derives rights from that fact.","Ove la legge non disponga altrimenti, chi vuol dedurre il suo diritto da una circostanza di fatto da lui asserita, deve fornirne la prova."
+CH__civil__9,EN,IT,"1 Public registers and public deeds constitute full proof of the facts evidenced by them, unless their content is shown to be incorrect.
+
+2 Such proof of incorrectness does not require to be in any particular form.","1 I registri pubblici ed i pubblici documenti fanno piena prova dei fatti che attestano, finché non sia dimostrata l’inesattezza del loro contenuto.
+
+2 Questa prova non è soggetta ad alcuna forma speciale."
+CH__civil__89b,EN,IT,"1 In the case of a public collection for charitable purposes, if no arrangements have been made for the management or use of the collective assets, the competent authority shall take the required measures.
+
+2 It may appoint an administrator for the collective assets or allocate the assets to an association or a foundation with objects that are as similar as possible.
+
+3 The administrator is subject, mutatis mutandis, to the regulations on deputyships in context of adult protection.","1 Qualora non sia provveduto all’amministrazione o all’utilizzazione di beni raccolti mediante collette pubbliche per scopi di utilità pubblica, l’autorità competente ordina i provvedimenti necessari.
+
+2 Essa può nominare un commissario o devolvere i beni a un’associazione o fondazione avente uno scopo quanto possibile affine a quello per il quale sono stati raccolti.
+
+3 Le disposizioni sulla protezione degli adulti relative alle curatele si applicano per analogia al commissario."
+CH__civil__89c,EN,IT,"1 The canton in which the main part of the collective is managed has jurisdiction.
+
+2 Unless the canton provides otherwise, the authority that supervises the foundations has jurisdiction.","1 È competente il Cantone nel quale è stata amministrata la maggior parte dei beni raccolti.
+
+2 Salvo che il Cantone disponga altrimenti, è competente l’autorità incaricata di vigilare sulle fondazioni."
+CH__civil__disp_u1/1,EN,IT,"1 When this Code comes into force, the legal effects of circumstances which occurred previously remain subject to those provisions of federal or cantonal law which were applicable when the circumstances occurred.
+2 Accordingly, the legally binding nature and consequences of acts which took place before the commencement hereof remain subject to the law which was applicable at the time.
+3 However, circumstances occurring after the commencement hereof are subject to the new law, unless this Code provides otherwise.","1 Gli effetti giuridici di fatti anteriori all’entrata in vigore di questo codice sono regolati, anche posteriormente, dalle disposizioni del diritto federale e cantonale che vigevano al tempo in cui detti fatti si sono verificati.
+2 Perciò gli atti compiuti prima dell’entrata in vigore del codice sono regolati, per quanto riguarda la loro forza obbligatoria ed i loro effetti, anche per l’avvenire, dalle disposizioni vigenti quando vennero compiuti.
+3 Invece i fatti compiutisi posteriormente sono regolati dal diritto nuovo, salve le eccezioni previste dalla legge."
+CH__civil__disp_u1/2,EN,IT,"1 The provisions of this Code specifically enacted in the interests of public policy and good morals apply when it comes into force to all circumstances, unless this Code provides otherwise.
+2 Accordingly, provisions of the previous law which under the new law are deemed to contravene public policy and good morals cease to apply when the new law comes into force.","1 Le disposizioni di questo codice fondate sull’ordine pubblico e sui buoni costumi sono applicabili in tutti i casi dal momento della sua entrata in vigore, salvo le eccezioni previste dalla legge.
+2 Perciò le disposizioni del diritto anteriore incompatibili con l’ordine pubblico ed i buoni costumi secondo il concetto della nuova legge si ritengono abrogate."
+CH__civil__disp_u1/3,EN,IT,"When this Code comes into force, legal relationships whose content is defined by law irrespective of the will of the parties concerned are subject to the new law, even if previously such relationships were valid.","I rapporti giuridici, il cui oggetto è regolato dalla legge indipendentemente dalla volontà delle parti, sono sottoposti alla nuova legge dal momento della sua entrata in vigore, anche se compiuti anteriormente."
+CH__civil__disp_u1/4,EN,IT,The legal effects of circumstances which occurred while the previous law was still in force and which enjoy no protection under the new law are subject to the latter once it has come into force.,"I fatti verificatisi sotto l’impero del diritto anteriore, ma dai quali al momento dell’entrata in vigore di questo codice non derivava ancora un diritto acquisito, sono da questo momento regolati nei loro effetti giuridici dalla legge nuova."
+CH__civil__disp_u1/5,EN,IT,"1 Capacity to act shall be assessed in all cases in accordance with the provisions of this Code.
+2 However, any person who has the capacity to act under the previous law when this Code comes into force but who would not have the capacity to act under the new law will also be recognised as having the capacity to act when this Code comes into force.","1 L’esercizio dei diritti civili è sottoposto in ogni caso alle disposizioni di questo codice.
+2 Tuttavia se al momento dell’entrata in vigore della legge nuova qualcuno avesse l’esercizio dei diritti civili secondo la legge anteriore, ma non secondo la legge nuova, egli sarà riconosciuto capace anche posteriormente."
+CH__civil__disp_u1/6,EN,IT,"1 The declaration of presumed death becomes subject to the new law when this Code comes into force.
+2 When this Code comes into force, declarations of death or absence under the previous law have the same effects as a declaration of presumed death under the new law, but the consequences that have occurred under the previous law prior to this Code coming into force, such as succession or dissolution of marriage, remain valid.
+3 Proceedings pending when the new law comes into force shall be restarted in accordance with the provisions of this Code, taking account of the time that has elapsed, or, if requested by the parties, concluded in accordance with the previous procedure, respecting the previous deadlines.","1 La dichiarazione di scomparsa è sottoposta alla legge nuova dal momento della sua entrata in vigore.
+2 La dichiarazione di morte o di assenza del diritto precedente avrà, dopo l’entrata in vigore di questo codice, gli effetti della dichiarazione di scomparsa della legge nuova, rimanendo però in vigore le conseguenze giuridiche verificatesi precedentemente secondo la legge anteriore, come la devoluzione d’eredità o lo scioglimento del matrimonio.
+3 Le procedure in corso al momento dell’entrata in vigore del Codice civile saranno ricominciate secondo le disposizioni della legge nuova, tenuto calcolo del tempo già trascorso, oppure, a richiesta degli interessati, saranno proseguite secondo la legge anteriore, osservati i termini della medesima."
+CH__civil__disp_u1/6a,EN,IT,"1 The Federal Council regulates the transition from the former procedure for keeping the civil register to the electronic civil register.
+2 The Confederation assumes the capital investment costs up to an amount of 5 million francs.","1 Il Consiglio federale disciplina il passaggio alla gestione elettronica dei registri.
+2 La Confederazione si assume le spese d’investimento fino a 5 milioni di franchi."
+CH__civil__disp_u1/6b,EN,IT,"1 Associations of persons and institutions or foundations that had acquired legal personality under the previous law, retain their personality under the new law even where they would not acquire legal personality under the new law.
+2 Existing legal entities that require to be entered in the public register in accordance with this Code must register within five years of the commencement of the new law even if no provision was made for registration under the previous law and are no longer recognised as legal entities on expiry of this time limit.
+2bis Religious foundations and family foundation that are not entered in the commercial register when the Amendment of 12 December 2014 (Art. 52 para. 2) comes into force continue to be recognised as legal entities. They must be entered in the commercial register within five years of the Amendment coming into force. The Federal Council shall take the special circumstances of religious foundations into account when determining the requirements for entry in the commercial register.
+3 The status of the legal personality of all legal entities is determined by the new law as soon as this Code comes into force.","1 Le organizzazioni corporative, gli istituti e le fondazioni che hanno acquisito la personalità giuridica sotto la legge precedente, la conservano sotto questo codice, anche se non potessero acquistarla secondo le sue disposizioni.
+2 Le persone giuridiche già esistenti, per la cui costituzione, secondo le prescrizioni della nuova legge sarebbe necessaria l’iscrizione in un registro pubblico, devono, entro il termine di cinque anni dall’entrata in vigore della medesima, ottenere questa iscrizione, anche se non era prescritta dal diritto anteriore; decorso questo termine senza essere iscritte, la loro personalità non è più riconosciuta.
+2bis Le fondazioni ecclesiastiche e le fondazioni di famiglia che al momento dell’entrata in vigore della modifica del 12 dicembre 2014 (art. 52 cpv. 2) non sono iscritte nel registro di commercio conservano la personalità giuridica. Devono tuttavia farsi iscrivere nel registro di commercio entro cinque anni. Nello stabilire i requisiti dell’iscrizione, il Consiglio federale tiene conto della situazione particolare delle fondazioni ecclesiastiche.
+3 I diritti inerenti alla personalità sono determinati per tutte le persone giuridiche da questo codice, dal momento della sua entrata in vigore."
+CH__civil__disp_u1/6b_bis,EN,IT,Existing associations in accordance with Article 61 paragraph 2 must meet the requirements specified in Articles 61a and 69 paragraph 2 within 18 months of the Amendment of 19 March 2021 coming into force. Existing associations in accordance with Article 61 paragraph 2 number 3 must also be entered in the commercial register within this period.,"Le associazioni già esistenti di cui all’articolo 61 capoverso 2 devono adempiere gli obblighi secondo gli articoli 61a e 69 capoverso 2 entro 18 mesi dall’entrata in vigore della modifica del 19 marzo 2021. Le associazioni già esistenti di cui all’articolo 61 capoverso 2 numero 3 devono inoltre, entro tale termine, farsi iscrivere nel registro di commercio."
+CH__civil__disp_u1/6c,EN,IT,The provisions of the Amendment of 16 December 2005,Le disposizioni della modifica del 16 dicembre 2005
+CH__civil__disp_u1/6c_bis,EN,IT,"The competent supervisory authority may at the request of the board of trustees amend the objects of an employee benefits scheme in accordance with Article 89a paragraph 7 established before the Amendment of 14 June 2024 came into force, provided the amendment of the objects involves their extension to include benefits under Article 89a paragraph 8 number 4.","La competente autorità di vigilanza può, su proposta dell’organo superiore della fondazione, modificare il fine di una fondazione di previdenza a favore del personale ai sensi dell’articolo 89a capoverso 7 costituita prima dell’entrata in vigore della modifica del 14 giugno 2024, se la modifica del fine consiste nell’estensione di quest’ultimo alle prestazioni di cui all’articolo 89a capoverso 8 numero 4."
+CH__civil__disp_u1/6d,EN,IT,The new law applies to proceedings that are already pending when the amendment of 14 December 2018 comes into force.,Ai procedimenti pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2018 si applica la legge nuova.
+CH__civil__disp_u1/7,EN,IT,"1 The new law applies to marriage as soon as the Federal Act of 26 June 1998
+2 Marriages subject to grounds for annulment under the previous law may, once the new law has come into force, only be annulled under the new law. However the period that has lapsed before this date will be taken into account in determining time limits.","1 Il matrimonio è retto dalla legge nuova dopo l’entrata in vigore della modifica del presente Codice del 26 giugno 1998
+2 Dall’entrata in vigore della legge nuova, i matrimoni per cui il diritto anteriore prevede una causa di nullità possono essere annullati solo secondo le disposizioni della nuova legge, computando tuttavia nei termini il tempo decorso anteriormente."
+CH__civil__disp_u1/7a,EN,IT,"1 The new law applies to the annulment of marriages involving minors that were registered before the Amendment of 14 June 2024 came into force.
+2 If both spouses have reached 18 years of age when the new law comes into force, the grounds for nullity may be claimed only by the spouse who was a minor when the partnership was registered and had not yet reached 25 years of age when the action for annulment was filed.","1 La nullità dei matrimoni con minorenni celebrati prima dell’entrata in vigore della modifica del 14 giugno 2024 è retta dal nuovo diritto.
+2 Se all’entrata in vigore del nuovo diritto entrambi i coniugi hanno compiuto il diciottesimo anno di età, la causa di nullità può essere invocata soltanto dal coniuge che era minorenne al momento della celebrazione del matrimonio e non ha ancora compiuto il venticinquesimo anno di età nel momento in cui è promossa l’azione di nullità."
+CH__civil__disp_u1/7a_bis,EN,IT,"1 Divorce proceedings are governed by the new law as soon as the Federal Act of 26 June 1998
+2 Divorces that had taken full legal effect under the previous law remain valid; the new provisions on enforcement apply to periodic maintenance payments or lump sum settlement that are fixed as an alternative to maintenance or as a maintenance contribution.
+3 Any amendment of the divorce decree is carried out in accordance with the previous law with the exception of the provisions on children and procedural matters.","1 Il divorzio è retto dalla legge nuova dopo l’entrata in vigore della modifica del presente Codice del 26 giugno 1998
+2 I divorzi passati in giudicato secondo il diritto anteriore conservano i loro effetti; le nuove disposizioni sull’esecuzione sono applicabili alle rendite o alle liquidazioni in capitale statuite per sopperire alla perdita del diritto al mantenimento o a titolo di contributi di mantenimento.
+3 La modifica della sentenza di divorzio è retta dalla legge anteriore, fatte salve le disposizioni relative ai figli e alla procedura."
+CH__civil__disp_u1/7b,EN,IT,"1 The new law applies to divorce proceedings that are pending on the commencement of the Federal Act of 26 June 1998
+2 New legal requests that are required due to the change in the applicable law are permitted; uncontested parts of the judgment remain binding, unless they are materially so closely connected with the requests that remain to be judged that it makes sense to reassess the entire case
+3 The Federal Supreme Court decides in accordance with the previous law in cases where the contested judgment was issued before the commencement of the Federal Act of 26 June 1998; this also applies if the case is referred back to the cantonal authority.","1 Ai processi di divorzio pendenti al momento dell’entrata in vigore della modifica del presente Codice del 26 giugno 1998
+2 Le parti possono presentare nuove conclusioni sulle questioni toccate dal cambiamento del diritto applicabile; i punti della sentenza che non sono stati impugnati rimangono vincolanti, a meno che siano così strettamente connessi con le conclusioni non ancora giudicate da giustificarsi una decisione complessiva.
+3 Il Tribunale federale applica la legge anteriore allorché la decisione impugnata è stata pronunciata prima dell’entrata in vigore della modifica del presente Codice del 26 giugno 1998; lo stesso vale anche in caso di rinvio all’autorità cantonale."
+CH__civil__disp_u1/7c,EN,IT,For divorce proceedings that are pending on commencement of the Amendment of 19 December 2003,Nei processi di divorzio pendenti al momento dell’entrata in vigore della modifica del presente Codice del 19 dicembre 2003
+CH__civil__disp_u1/7d,EN,IT,"1 The new law on occupational pensions on divorce applies as soon as the amendment of 19 June 2015 comes into force.
+2 The new law applies to divorce cases pending before a cantonal court at the time when the amendment of 19 June 2015 comes into force.
+3 When the contested decision was made before the amendment of 19 June 2015 came into force, the Federal Supreme Court shall decide under previous law; this also applies when a case is referred back to the cantonal court.","1 La previdenza professionale in caso di divorzio è retta dalla legge nuova dopo l’entrata in vigore della modifica del presente Codice del 19 giugno 2015.
+2 Ai processi di divorzio pendenti dinanzi a un’autorità cantonale al momento dell’entrata in vigore della modifica del presente Codice del 19 giugno 2015 si applica la legge nuova.
+3 Il Tribunale federale applica la legge anteriore allorché la decisione impugnata è stata pronunciata prima dell’entrata in vigore della modifica del presente Codice del 19 giugno 2015; lo stesso vale anche in caso di rinvio all’autorità cantonale."
+CH__civil__disp_u1/7e,EN,IT,"1 If on divorce under the previous law the court, when deciding on the equitable division of pensions, has awarded compensation to the entitled spouse in the form of a pension that terminates on the death of the liable or the entitled spouse, the entitled spouse may, within one year of the amendment of 19 June 2015 coming into force, demand that he or she be granted a life-long pension in accordance with Article 124a instead, should the liable spouse draw an old-age pension or an invalidity pension after the commencement of the statutory pension age.
+2 In the case of decisions made abroad, jurisdiction is determined by Article 64 of the Federal Act of 18 December 1987
+3 Any pension payments already made under previous law are considered part of the pension awarded.","1 Se, in un divorzio pronunciato dopo che sia sopraggiunto un caso di previdenza, il giudice ha assegnato al coniuge creditore, secondo la legge anteriore, un’indennità sotto forma di rendita che si estingue soltanto con la morte del coniuge debitore o del coniuge creditore, quest’ultimo può chiedere al giudice, entro un anno dall’entrata in vigore della modifica del presente Codice del 19 giugno 2015, di assegnargli invece una rendita vitalizia secondo l’articolo 124a, sempre che il coniuge debitore percepisca una rendita d’invalidità e abbia già raggiunto l’età di pensionamento stabilita dal regolamento oppure percepisca una rendita di vecchiaia.
+2 Per quanto concerne le decisioni straniere, la competenza è regolata secondo l’articolo 64 della legge federale del 18 dicembre 1987
+3 La rendita secondo la legge anteriore vale come parte di rendita assegnata."
+CH__civil__disp_u1/8,EN,IT,"For the effects of the marriage in general, the new law applies as soon as the Federal Act of 5 October 1984 has come into force.",Gli effetti del matrimonio in generale sono retti dalla legge nuova dopo l’entrata in vigore della legge federale del 5 ottobre 1984.
+CH__civil__disp_u1/8a,EN,IT,A spouse who changed his or her name on marriage before the amendment to this Code of 30 September 2011 came into force may declare to the civil registrar at any time that he or she wishes to use his or her name before marriage again.,Il coniuge che ha cambiato cognome in occasione del matrimonio prima dell’entrata in vigore della modifica del presente Codice del 30 settembre 2011 può in ogni tempo dichiarare all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
+CH__civil__disp_u1/8b,EN,IT,A Swiss woman who married under the previous law may within one year of the new law coming into force declare to the competent authority of her former canton of origin that she wishes to retain the citizenship that she held as a single woman.,"La svizzera maritatasi sotto la legge anteriore può entro un anno dall’entrata in vigore della legge nuova, dichiarare all’autorità competente del suo vecchio Cantone d’origine di voler riprendere la cittadinanza che aveva da nubile."
+CH__civil__disp_u1/9,EN,IT,The legal effects on marital property of marriages contracted before 1 January 1912 are governed by the provisions of the Civil Code on the application of the previous and new law that came into force on that day.,"Gli effetti patrimoniali dei matrimoni celebrati prima del 1° gennaio 1912 sono retti dalle disposizioni del presente codice sull’applicazione del vecchio e del nuovo diritto, entrate in vigore a quella data."
+CH__civil__disp_u1/9a,EN,IT,"1 The new law applies to marriages that exist when the Federal Act of 5 October 1984 comes into force, unless otherwise provided.
+2 The legal effects on marital property of marriages that were dissolved before the Federal Act of 5 October 1984 came into force are governed by the previous law.","1 Salvo diversa disposizione, i matrimoni esistenti al momento dell’entrata in vigore della legge federale del 5 ottobre 1984 sono sottoposti alla legge nuova.
+2 Gli effetti patrimoniali dei matrimoni sciolti prima dell’entrata in vigore della legge federale del 5 ottobre 1984 sono retti dalla legge anteriore."
+CH__civil__disp_u1/9b,EN,IT,"1 Spouses who have hitherto been subject to a union of property regime are now subject to the regulations on participation in acquired property in relation to each other and to third parties.
+2 The assets of each spouse become his or her own property or acquisitions in accordance with the regulations on participation in acquired property; separate property in terms of a marital agreement becomes personal assets.
+3 The wife reclaims the property she brought into the marriage that became her husband's property or makes a claim for compensation.","1 I coniugi che vivevano nel regime dell’unione dei beni sotto la legge anteriore sottostanno, nei loro rapporti reciproci e verso i terzi, alle nuove norme sulla partecipazione agli acquisti.
+2 I beni appartenenti a ciascun coniuge diventano suoi beni propri o suoi acquisti conformemente alle norme sulla partecipazione agli acquisti; i beni riservati costituiti per convenzione matrimoniale diventano beni propri.
+3 La moglie ricupera la proprietà dei suoi apporti passati in proprietà del marito o ha un credito compensativo corrispondente."
+CH__civil__disp_u1/9c,EN,IT,"In the event of the husband's bankruptcy and the distraint of his assets, the previous provisions on the wife's right to compensation in respect of property that she has brought into the marriage and which is no longer available continue to apply for ten years after the new law comes into force.",Le disposizioni della legge anteriore sui crediti della moglie per gli apporti che più non si rinvenissero in caso di fallimento del marito o di pignoramento dei beni del medesimo rimangono applicabili per dieci anni dopo l’entrata in vigore della legge nuova.
+CH__civil__disp_u1/9d,EN,IT,"1 After the new law comes into force, the division of marital property between the spouses is governed for the entire duration of the previous and the new statutory marital property regime by the regulations on participation in acquired property, unless the spouses have completed the division of marital property in accordance with the provisions on union of property at the time when the new law comes into force.
+2 Before the new law comes into force, either spouse may give written notice to the other that the current marital property regime of union of property must be dissolved in accordance with the previous law.
+3 If the marital property regime is dissolved because an action filed before the new law comes into force is upheld, the division of marital property is governed by the previous law.","1 Dopo l’entrata in vigore della legge nuova, la liquidazione fra i coniugi del regime dei beni è retta, per tutta la durata del precedente regime comune e del nuovo regime ordinario, dalle norme sulla partecipazione agli acquisti, salvo che i coniugi, al momento di questa entrata in vigore, abbiano già terminato la liquidazione secondo le disposizioni sull’unione dei beni.
+2 Prima dell’entrata in vigore della legge nuova, ogni coniuge può comunicare per scritto all’altro che il loro regime d’unione dei beni sarà sciolto secondo le disposizioni della legge anteriore.
+3 Se il regime dei beni è sciolto in seguito all’accoglimento di un’azione proposta prima dell’entrata in vigore della legge nuova, la liquidazione si fa secondo la legge anteriore."
+CH__civil__disp_u1/9e,EN,IT,"1 Spouses subject to the statutory marital property regime of union of property who have not changed this marital property regime by marital agreement may by one year at the latest after the new law comes into force elect to retain the union of property regime by filing a joint written declaration with the marital property register office at their domicile; the marital property register office shall maintain a register of such declarations that anyone may inspect.
+2 The marital property regime may only be cited in opposition to a third party if that third party is or should be aware of it.
+3 The new regulations on the separation of property apply in future to the spouses' separate property.","1 I coniugi che vivevano nel regime comune dell’unione dei beni sotto la legge anteriore possono, entro un anno dall’entrata in vigore della legge nuova, dichiarare per scritto e congiuntamente all’ufficio del registro dei beni matrimoniali del loro domicilio di voler mantenere questo regime purché non l’abbiano modificato per convenzione matrimoniale; l’ufficio del registro dei beni matrimoniali tiene un elenco pubblico di queste dichiarazioni.
+2 Il regime dei beni è però opponibile ai terzi soltanto se ne sono o ne dovevano essere a conoscenza.
+3 I beni riservati dei coniugi sono sottoposti alle nuove norme sulla separazione dei beni."
+CH__civil__disp_u1/9f,EN,IT,"In the case of a separation of property established by operation of the law or by court order, the spouses are subject to the new provisions on the separation of property.",I coniugi che vivevano nel regime della separazione dei beni legale o giudiziale sotto la legge anteriore sottostanno alle nuove norme sulla separazione dei beni.
+CH__civil__disp_u1/9g,EN,IT,"1 In the case of same-sex married couple who were married abroad before the Amendment of 18 December 2020 came into full legal force, the statutory marital property regime of participation in acquired property applies retrospectively from the date of marriage, unless the couple agrees otherwise by marital agreement or property agreement.
+2 Before this Amendment comes into force in full, either spouse may give written notice to the other that the current marital property regime will be maintained in accordance with Article 18 of the Same-Sex Partnership Act of 18 June 2004
+3 The current marital property regime in accordance with Article 18 SSPA shall also be retained if an action seeking to dissolve the marital property regime under Swiss law is pending when this Amendment comes into full legal force.
+4 The related ordinances shall provide that married couples who so wish shall be mentioned as husband and wife or as father and mother in relation to their children on documents, deeds and forms.","1 Alle coppie di persone dello stesso sesso che hanno contratto matrimonio all’estero prima dell’entrata in vigore integrale della modifica del presente Codice del 18 dicembre 2020 si applica retroattivamente, dalla data della celebrazione del matrimonio, il regime ordinario della partecipazione agli acquisti, in quanto esse non abbiano altrimenti disposto per convenzione matrimoniale o patrimoniale.
+2 Prima dell’entrata in vigore integrale delle disposizioni della modifica del presente Codice del 18 dicembre 2020, ogni coniuge può comunicare per scritto all’altro che il regime dei beni di cui all’articolo 18 della legge del 18 giugno 2004.
+3 Il regime dei beni di cui all’articolo 18 LUD è mantenuto anche quando all’entrata in vigore integrale della modifica del presente Codice del 18 dicembre 2020 è in corso un’azione per lo scioglimento del regime patrimoniale secondo il diritto svizzero.
+4 Le ordinanze corrispondenti prevedono che in documenti, atti e moduli i coniugi che lo desiderano siano indicati quali marito e moglie, nonché quali padre e madre dei loro figli."
+CH__civil__disp_u1/10,EN,IT,"1 If the spouses have entered into a marital agreement in accordance with the Civil Code, this marital agreement continues to apply and their entire marital property regime continues to be governed by the previous law, subject to the reservation of the provisions of this Title on separate property, legal effect on third parties and the contractual separation of property.
+2 The new regulations on the separation of property apply in future to the spouses' separate property.
+3 Agreements on participation in a surplus or deficit in the case of a union of property regime must not adversely affect the right to claim the statutory entitlements of children who are not the common issue of the spouses or those of the issue of such children.","1 Se i coniugi hanno conchiuso una convenzione matrimoniale giusta le disposizioni del Codice civile svizzero del 10 dicembre 1907, tale convenzione conserva la sua validità e, salve le disposizioni del presente titolo concernenti i beni riservati, l’efficacia verso i terzi e la separazione convenzionale dei beni, il loro intero regime dei beni rimane sottoposto alle norme della legge anteriore.
+2 I beni riservati dei coniugi sottostanno alle nuove norme sulla separazione dei beni.
+3 Le convenzioni che modificano la partecipazione all’aumento o alle diminuzioni nel regime dell’unione dei beni non devono pregiudicare i diritti alla legittima dei figli non comuni e dei loro discendenti."
+CH__civil__disp_u1/10a,EN,IT,"1 The marital property regime may only be cited in opposition to a third party if that third party is or should be aware of it.
+2 If the marital property agreement has no legal effect in relation to third parties, the provisions on participation in acquired property apply from now on in relation to such parties.","1 Il regime dei beni è opponibile ai terzi soltanto se ne sono o ne dovevano essere a conoscenza.
+2 Se la convenzione matrimoniale non è giuridicamente efficace verso i terzi, rispetto a loro valgono le nuove norme sulla partecipazione agli acquisti."
+CH__civil__disp_u1/10b,EN,IT,"1 Spouses subject to a union of property regime who have changed this marital property regime by marital agreement may by one year at the latest after the new law comes into force elect to make their legal rights subject to the new statutory marital property regime of participation in acquired property by filing of a joint written declaration with marital property register office at their domicile.
+2 In this event, the contractual share of the surplus shall in future apply to the total amount of the surplus of both spouses, unless a marital property agreement provides otherwise.","1 I coniugi che vivevano nel regime comune dell’unione dei beni sotto la legge anteriore, ma lo avevano modificato per convenzione matrimoniale, possono, entro un anno dall’entrata in vigore della legge nuova, dichiarare per scritto e congiuntamente all’ufficio del registro dei beni matrimoniali del loro domicilio di voler sottoporre i loro rapporti giuridici al nuovo regime ordinario della partecipazione agli acquisti.
+2 In tal caso, la partecipazione convenzionale all’aumento vale per la somma totale degli aumenti della sostanza d’ambo i coniugi, salvo che si sia altrimenti stabilito per convenzione matrimoniale."
+CH__civil__disp_u1/10c,EN,IT,"If the spouses agreed to a separation of property under the previous law, they are subject in future to the new provisions on the separation of property.",I coniugi che avevano adottato la separazione dei beni sotto la legge anteriore sono sottoposti alle nuove norme sulla separazione dei beni.
+CH__civil__disp_u1/10d,EN,IT,Marital agreements concluded before the Federal Act of 5 October 1984 comes into force but which are intended to take effect only under the new law do not require the approval of the child protection authority.,Le convenzioni matrimoniali concluse prima dell’entrata in vigore della legge federale del 5 ottobre 1984 ma efficaci soltanto sotto la legge nuova non sottostanno all’approvazione dell’autorità tutoria.
+CH__civil__disp_u1/10e,EN,IT,"1 After the Federal Act of 5 October 1984 comes into force, no further entries will be made in the register of marital property.
+2 The right to inspect the register continues to apply.","1 Con l’entrata in vigore della legge federale del 5 ottobre 1984 non saranno più fatte nuove iscrizioni nel registro dei beni matrimoniali.
+2 Il diritto di consultare il registro rimane garantito."
+CH__civil__disp_u1/11,EN,IT,"If a separation of assets under the law of marital property in connection with the new law coming into force causes serious difficulties for a spouse who is liable to pay debts or the replace property that is due, he or she may request additional time to pay; the debt must be secured if this is justified by the circumstances.","Il coniuge che, in una liquidazione connessa con l’entrata in vigore della legge nuova, deve pagare debiti pecuniari o restituire cose può, qualora dovesse per ciò incorrere in serie difficoltà, chiedere dilazioni; se le circostanze lo giustificano, dovrà fornire garanzie."
+CH__civil__disp_u1/11a,EN,IT,"If the marital property rights change when the Federal Act of 5 October 1984 comes into force, the provisions on the protection the creditors in the event of a change in the marital property regime govern liability.","Le norme sulla protezione dei creditori in caso di modificazione del regime dei beni s’applicano, quanto alla responsabilità, anche alle modificazioni determinate dall’entrata in vigore della legge federale del 5 ottobre 1984."
+CH__civil__disp_u1/12,EN,IT,"1 As soon as this Code comes into force, the establishment and effects of the parent-child relationship are governed by the new law; the surname and the citizenship acquired under previous law are retained.
+2 Children who are subject to parental authority by operation of the new law but who are under guardianship when the new law comes into force must be placed under parental authority no later than one year after that date unless the contrary was ordered under the provisions on the withdrawal of parental of authority.
+3 A transfer or withdrawal of parental authority officially ordered under the previous law remains effective after the new law comes into force.
+4 When the Amendment of 21 June 2013 comes into force, if parental responsibility is assigned to only one parent, the other parent may within one year of this Amendment coming into force request the competent authority to order joint parental responsibility. Article 298b applies mutatis mutandis.
+5 A parent whose parental responsibility is revoked on divorce may file a request with the competent court only if the divorce was decreed less than five years before the Amendment of 21 June 2013 comes into force.","1 Il sorgere e gli effetti della filiazione sono soggetti alla legge nuova dall’entrata in vigore di questo codice; è riservato l’acquisto del cognome e della cittadinanza verificatosi sotto la legge anteriore.
+2 Se all’entrata in vigore della legge nuova si trovano sotto tutela dei figli che secondo la stessa soggiacciono per legge all’autorità parentale, la tutela, al più tardi un anno dopo, sarà sostituita da questa salvo che non sia stato ordinato il contrario giusta le disposizioni sulla privazione dell’autorità parentale.
+3 Il trasferimento o la privazione dell’autorità parentale deciso dall’autorità secondo la legge anteriore rimane efficace anche dopo l’entrata in vigore della legge nuova.
+4 Se all’entrata in vigore della modifica del 21 giugno 2013 l’autorità parentale spetta a un solo genitore, l’altro genitore può, entro un anno dall’entrata in vigore del nuovo diritto, chiedere all’autorità competente di disporre l’autorità parentale congiunta. L’articolo 298b si applica per analogia.
+5 Il genitore che in occasione del divorzio è stato privato dell’autorità parentale può rivolgersi individualmente al giudice competente soltanto se il divorzio non risale a più di cinque anni dall’entrata in vigore della modifica del 21 giugno 2013."
+CH__civil__disp_u1/12a,EN,IT,"1 An adoption pronounced before the new provisions of the Federal Act of 30 June 1972 on the Amendment of the Swiss Civil Code come into force continues to be governed by the law that came into force on 1 January 1912
+2 Persons who are not yet 20 years old when the Federal Act of 7 October 1994 comes into force may still be adopted in accordance with the provisions on minority after attaining majority provided the application is filed within two years of the Federal Act coming into force and of their 20th birthday.","1 L’adozione pronunciata prima dell’entrata in vigore delle nuove norme della legge federale del 30 giugno 1972 che modifica il Codice civile svizzero rimane sottoposta al diritto entrato in vigore il lo gennaio 1912
+2 Le persone che non hanno ancora compiuto venti anni al momento dell’entrata in vigore della legge federale del 7 ottobre 1994, anche se sono maggiorenni, possono ancora essere adottate secondo le disposizioni applicabili ai minorenni nella misura in cui la domanda sia presentata prima del compimento del ventesimo anno d’età e nei due anni successivi all’entrata in vigore della legge suddetta."
+CH__civil__disp_u1/12b,EN,IT,The new law applies to adoption procedures pending at the time the amendment of 17 June 2016 comes into force.,Alle procedure di adozione pendenti all’entrata in vigore della modifica del 17 giugno 2016 si applica il nuovo diritto.
+CH__civil__disp_u1/12c,EN,IT,"The provisions of the amendment of 17 June 2016 on the confidentiality of adoption information, on information about the biological parents and their direct descendants and on the possibility of arranging contact between the biological parents and the child also apply to adoptions which are granted prior to the amendment coming into force or which are pending at the time it comes into force.","Le disposizioni della modifica del 17 giugno 2016 relative al segreto dell’adozione, all’informazione circa i genitori biologici e i loro discendenti nonché alla possibile convenzione sulle relazioni personali tra i genitori biologici e l’adottato si applicano anche alle adozioni pronunciate prima dell’entrata in vigore o pendenti al momento dell’entrata in vigore di dette disposizioni."
