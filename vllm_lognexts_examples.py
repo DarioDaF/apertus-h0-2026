@@ -1,7 +1,7 @@
 from functools import cache
 import os
 from pathlib import Path
-import csv
+import csv, re
 import random
 from typing import TypedDict
 
@@ -10,6 +10,7 @@ from my_lllm import Message, MyLLLM, my_lllm_init
 from assistent_prob import AssistentProb_ChatParams, getAssistentProb
 
 THIS_FOLDER = Path(__file__).resolve().parent
+RE_ANY_LETTER = re.compile('[a-zA-Z]')
 
 
 RNG_SEED = b'\xA4\xAA\x86\xEA\x17\xFC\x20\xDC'
@@ -81,7 +82,9 @@ with OUT_FILE.open('w', encoding='utf-8') as fp:
             seg_text = segmenter.segment(example[f'text_{hole_src}'])
             other_text = example[f'text_{other_src}']
 
-            hole_idx = seeded_random.randrange(0, len(seg_text))
+            valid_hole_idxs = [ idx for idx, hole_text in enumerate(seg_text) if RE_ANY_LETTER.match(hole_text) is not None ]
+
+            hole_idx = seeded_random.choice(valid_hole_idxs)
 
             myin = MyInputWithTarget(
                 original=other_text,

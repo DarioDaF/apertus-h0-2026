@@ -63,7 +63,7 @@ def dataitem2example(item):
         'id': item['id'], 'lang_A_id': 'en', 'lang_B_id': item['subset'].split('_')[1].upper(),
         'text_A': item['text_a_untokenized'], 'text_B': item['text_b_untokenized'],
     }
-examples = load_dataset('ZurichNLP/SwissGov-RSD', split='validation').map(dataitem2example).to_list()
+examples = [ dataitem2example(item) for item in load_dataset('ZurichNLP/SwissGov-RSD', split='validation') ]
 print(f'Loaded {len(examples)} entries from example table')
 seeded_random.shuffle(examples)
 
