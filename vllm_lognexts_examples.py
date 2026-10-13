@@ -90,7 +90,6 @@ with OUT_FILE.open('w', encoding='utf-8') as fp:
                 new_suffix=' ' + ' '.join(seg_text[hole_idx+1:]),
             )
 
-            '''
             assistant_lprob, tkchoices = getAssistentProb(lmTarget, genPrompt(myin))
 
             rank = -1
@@ -115,4 +114,3 @@ with OUT_FILE.open('w', encoding='utf-8') as fp:
                 'assistant_preferred': best_text,
             })
             fp.flush()
-            '''
